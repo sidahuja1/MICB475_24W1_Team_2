@@ -8,6 +8,7 @@ Potential Papers:
 1 or 4
 
 Aim 1: data wrangling, combining metadata, creating a new column
+
 Aim 2: taxonomic metrics, core microbiome
 - Surgery vs old, FMT vs young
 Aim 3: cross compare
