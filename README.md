@@ -24,3 +24,9 @@ Wrangle data this week:
 - Treatment group needs to be common between the two
 - Treatment column and treatment detailed
 - Origin column (halfverson, FMT)
+
+**P1 Metadata**
+-Host_disease includes CD, UC, or n/a (donor)
+-Column "Origin" = the dataset the data is from 
+
+
