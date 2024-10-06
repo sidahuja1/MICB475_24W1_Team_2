@@ -26,7 +26,7 @@ Wrangle data this week:
 - Origin column (halfverson, FMT)
 
 **P1 Metadata**
--Host_disease includes CD, UC, or n/a (donor)
--Column "Origin" = the dataset the data is from 
+- Host_disease includes CD, UC, or n/a (donor)
+- Column "Origin" = the dataset the data is from 
 
 
