@@ -1,0 +1,684 @@
+sample_name	cd_resection	diagnosis_full	perianal_disease	sex	timepoint	uc_extent	year_diagnosed	collection_timestamp
+1629.SubjectIBD001	no	CD	no	male	2	not applicable	1988	06/17/2010
+1629.SubjectIBD002	no	CD	no	male	3	not applicable	1988	09/16/2010
+1629.SubjectIBD003	no	CD	no	male	4	not applicable	1988	01/04/2011
+1629.SubjectIBD004	no	CD	no	male	5	not applicable	1988	04/07/2011
+1629.SubjectIBD005	no	CD	no	male	6	not applicable	1988	06/28/2011
+1629.SubjectIBD006	not applicable	UC	not applicable	female	5	Left sided (E2)	1998	08/24/2010
+1629.SubjectIBD007	not applicable	UC	not applicable	female	6	Left sided (E2)	1998	11/18/2010
+1629.SubjectIBD008	not applicable	UC	not applicable	female	1	Left sided (E2)	1998	09/03/2009
+1629.SubjectIBD009	not applicable	UC	not applicable	female	2	Left sided (E2)	1998	12/03/2009
+1629.SubjectIBD010	not applicable	UC	not applicable	female	5	Extensive (E3)	1971	03/03/2010
+1629.SubjectIBD011	not applicable	UC	not applicable	female	6	Extensive (E3)	1971	06/15/2010
+1629.SubjectIBD012	not applicable	UC	not applicable	female	7	Extensive (E3)	1971	09/02/2010
+1629.SubjectIBD013	not applicable	UC	not applicable	female	8	Extensive (E3)	1971	12/01/2010
+1629.SubjectIBD014	not applicable	UC	not applicable	female	1	Extensive (E3)	1971	03/11/2009
+1629.SubjectIBD015	not applicable	UC	not applicable	female	2	Extensive (E3)	1971	05/27/2009
+1629.SubjectIBD016	not applicable	UC	not applicable	female	4	Extensive (E3)	1971	12/09/2009
+1629.SubjectIBD017	not applicable	UC	not applicable	male	2	Proctitis (E1)	1980	06/09/2010
+1629.SubjectIBD018	not applicable	UC	not applicable	male	3	Proctitis (E1)	1980	09/08/2010
+1629.SubjectIBD019	not applicable	UC	not applicable	male	4	Proctitis (E1)	1980	11/24/2010
+1629.SubjectIBD020	not applicable	UC	not applicable	male	5	Proctitis (E1)	1980	02/23/2011
+1629.SubjectIBD021	not applicable	UC	not applicable	male	1	Left sided (E2)	2006	03/31/2009
+1629.SubjectIBD022	not applicable	UC	not applicable	male	2	Left sided (E2)	2006	07/28/2009
+1629.SubjectIBD023	yes	CD	no	male	5	not applicable	1979	03/23/2010
+1629.SubjectIBD024	yes	CD	no	male	6	not applicable	1979	05/27/2010
+1629.SubjectIBD025	yes	CD	no	male	7	not applicable	1979	09/15/2010
+1629.SubjectIBD026	yes	CD	no	male	8	not applicable	1979	12/08/2010
+1629.SubjectIBD027	yes	CD	no	male	1	not applicable	1979	03/26/2009
+1629.SubjectIBD028	yes	CD	no	male	2	not applicable	1979	06/08/2009
+1629.SubjectIBD029	yes	CD	no	male	3	not applicable	1979	09/15/2009
+1629.SubjectIBD030	yes	CD	no	male	4	not applicable	1979	12/10/2009
+1629.SubjectIBD031	yes	CD	no	female	7	not applicable	1973	08/26/2010
+1629.SubjectIBD032	yes	CD	no	female	1	not applicable	1973	03/12/2009
+1629.SubjectIBD033	yes	CD	no	female	3	not applicable	1973	09/02/2009
+1629.SubjectIBD034	yes	CD	no	female	4	not applicable	1973	11/26/2009
+1629.SubjectIBD035	not applicable	UC	not applicable	female	4	Extensive (E3)	1979	03/23/2010
+1629.SubjectIBD036	not applicable	UC	not applicable	female	5	Extensive (E3)	1979	06/30/2010
+1629.SubjectIBD037	not applicable	UC	not applicable	female	6	Extensive (E3)	1979	09/09/2010
+1629.SubjectIBD038	not applicable	UC	not applicable	female	7	Extensive (E3)	1979	12/20/2010
+1629.SubjectIBD039	not applicable	UC	not applicable	female	8	Extensive (E3)	1979	03/13/2011
+1629.SubjectIBD040	not applicable	UC	not applicable	female	1	Extensive (E3)	1979	06/25/2009
+1629.SubjectIBD041	not applicable	UC	not applicable	female	2	Extensive (E3)	1979	09/23/2009
+1629.SubjectIBD042	not applicable	UC	not applicable	female	3	Extensive (E3)	1979	12/16/2009
+1629.SubjectIBD043	no	CD	no	female	3	not applicable	1975	02/17/2010
+1629.SubjectIBD044	no	CD	no	female	4	not applicable	1975	05/19/2010
+1629.SubjectIBD045	no	CD	no	female	5	not applicable	1975	08/17/2010
+1629.SubjectIBD046	no	CD	no	female	6	not applicable	1975	11/11/2010
+1629.SubjectIBD047	no	CD	no	female	7	not applicable	1975	02/10/2011
+1629.SubjectIBD048	no	CD	no	female	8	not applicable	1975	05/17/2011
+1629.SubjectIBD049	no	CD	no	female	1	not applicable	1975	08/25/2009
+1629.SubjectIBD050	no	CD	no	female	2	not applicable	1975	11/17/2009
+1629.SubjectIBD051	yes	CD	no	female	1	not applicable	2006	05/19/2009
+1629.SubjectIBD052	yes	CD	no	female	2	not applicable	2006	08/11/2009
+1629.SubjectIBD053	yes	CD	no	female	3	not applicable	2006	12/15/2009
+1629.SubjectIBD054	not applicable	UC	not applicable	male	2	Extensive (E3)	2001	02/17/2010
+1629.SubjectIBD055	not applicable	UC	not applicable	male	3	Extensive (E3)	2001	05/19/2010
+1629.SubjectIBD056	not applicable	UC	not applicable	male	4	Extensive (E3)	2001	08/11/2010
+1629.SubjectIBD057	not applicable	UC	not applicable	male	5	Extensive (E3)	2001	11/15/2010
+1629.SubjectIBD058	not applicable	UC	not applicable	male	6	Extensive (E3)	2001	02/21/2011
+1629.SubjectIBD059	not applicable	UC	not applicable	male	7	Extensive (E3)	2001	05/12/2011
+1629.SubjectIBD060	not applicable	UC	not applicable	male	8	Extensive (E3)	2001	08/17/2011
+1629.SubjectIBD061	not applicable	UC	not applicable	male	1	Extensive (E3)	2001	11/30/2009
+1629.SubjectIBD062	yes	CD	no	female	1	not applicable	1972	05/18/2010
+1629.SubjectIBD063	yes	CD	no	female	2	not applicable	1972	08/24/2010
+1629.SubjectIBD064	yes	CD	no	female	3	not applicable	1972	11/30/2010
+1629.SubjectIBD065	yes	CD	no	female	4	not applicable	1972	02/24/2011
+1629.SubjectIBD066	not applicable	UC	not applicable	female	1	Left sided (E2)	2003	01/21/2010
+1629.SubjectIBD067	not applicable	UC	not applicable	female	2	Left sided (E2)	2003	04/15/2010
+1629.SubjectIBD068	not applicable	UC	not applicable	female	3	Left sided (E2)	2003	07/14/2010
+1629.SubjectIBD069	not applicable	UC	not applicable	female	4	Left sided (E2)	2003	10/12/2010
+1629.SubjectIBD070	not applicable	UC	not applicable	female	5	Left sided (E2)	2003	01/13/2011
+1629.SubjectIBD071	not applicable	UC	not applicable	female	6	Left sided (E2)	2003	04/14/2011
+1629.SubjectIBD072	not applicable	UC	not applicable	male	4	Left sided (E2)	2007	01/21/2010
+1629.SubjectIBD073	not applicable	UC	not applicable	male	5	Left sided (E2)	2007	04/19/2010
+1629.SubjectIBD074	not applicable	UC	not applicable	male	6	Left sided (E2)	2007	08/05/2010
+1629.SubjectIBD075	not applicable	UC	not applicable	male	7	Left sided (E2)	2007	10/28/2010
+1629.SubjectIBD076	not applicable	UC	not applicable	male	8	Left sided (E2)	2007	01/13/2011
+1629.SubjectIBD077	not applicable	UC	not applicable	male	1	Left sided (E2)	2007	04/08/2009
+1629.SubjectIBD078	not applicable	UC	not applicable	male	3	Left sided (E2)	2007	10/07/2009
+1629.SubjectIBD079	no	CD	no	female	2	not applicable	2004	03/17/2010
+1629.SubjectIBD080	no	CD	no	female	3	not applicable	2004	05/19/2010
+1629.SubjectIBD081	no	CD	no	female	4	not applicable	2004	08/10/2010
+1629.SubjectIBD082	no	CD	no	female	5	not applicable	2004	11/10/2010
+1629.SubjectIBD083	no	CD	no	female	6	not applicable	2004	02/16/2011
+1629.SubjectIBD084	no	CD	no	female	1	not applicable	2004	11/18/2009
+1629.SubjectIBD085	not applicable	UC	not applicable	female	3	Extensive (E3)	2007	03/23/2010
+1629.SubjectIBD086	not applicable	UC	not applicable	female	4	Extensive (E3)	2007	06/07/2010
+1629.SubjectIBD087	not applicable	UC	not applicable	female	1	Extensive (E3)	2007	09/03/2009
+1629.SubjectIBD088	not applicable	UC	not applicable	female	2	Extensive (E3)	2007	12/01/2009
+1629.SubjectIBD089	not applicable	UC	not applicable	female	1	Extensive (E3)	1969	04/14/2010
+1629.SubjectIBD090	not applicable	UC	not applicable	female	3	Left sided (E2)	1977	05/25/2010
+1629.SubjectIBD091	not applicable	UC	not applicable	female	4	Left sided (E2)	1977	09/10/2010
+1629.SubjectIBD092	not applicable	UC	not applicable	female	6	Left sided (E2)	1977	03/02/2011
+1629.SubjectIBD093	not applicable	UC	not applicable	female	8	Left sided (E2)	1977	08/23/2011
+1629.SubjectIBD094	not applicable	UC	not applicable	female	1	Left sided (E2)	1977	12/03/2009
+1629.SubjectIBD095	not applicable	UC	not applicable	male	3	Left sided (E2)	2003	02/24/2010
+1629.SubjectIBD096	not applicable	UC	not applicable	male	4	Left sided (E2)	2003	06/10/2010
+1629.SubjectIBD097	not applicable	UC	not applicable	male	5	Left sided (E2)	2003	08/19/2010
+1629.SubjectIBD098	not applicable	UC	not applicable	male	6	Left sided (E2)	2003	11/16/2010
+1629.SubjectIBD099	not applicable	UC	not applicable	male	7	Left sided (E2)	2003	02/15/2011
+1629.SubjectIBD100	not applicable	UC	not applicable	male	1	Left sided (E2)	2003	08/26/2009
+1629.SubjectIBD101	not applicable	UC	not applicable	male	2	Left sided (E2)	2003	11/26/2009
+1629.SubjectIBD102	no	CD	no	female	2	not applicable	1982	03/17/2010
+1629.SubjectIBD103	no	CD	no	female	3	not applicable	1982	06/08/2010
+1629.SubjectIBD104	no	CD	no	female	4	not applicable	1982	09/08/2010
+1629.SubjectIBD105	no	CD	no	female	1	not applicable	1982	12/17/2009
+1629.SubjectIBD106	yes	CD	no	female	4	not applicable	2000	01/13/2010
+1629.SubjectIBD107	yes	CD	no	female	5	not applicable	2000	04/08/2010
+1629.SubjectIBD108	yes	CD	no	female	6	not applicable	2000	07/16/2010
+1629.SubjectIBD109	yes	CD	no	female	8	not applicable	2000	12/23/2010
+1629.SubjectIBD110	yes	CD	no	female	2	not applicable	2000	07/03/2009
+1629.SubjectIBD111	yes	CD	no	female	3	not applicable	2000	09/30/2009
+1629.SubjectIBD112	yes	CD	no	female	4	not applicable	1990	01/15/2010
+1629.SubjectIBD113	yes	CD	no	female	5	not applicable	1990	04/14/2010
+1629.SubjectIBD114	yes	CD	no	female	6	not applicable	1990	07/15/2010
+1629.SubjectIBD115	yes	CD	no	female	8	not applicable	1990	01/12/2011
+1629.SubjectIBD116	yes	CD	no	female	1	not applicable	1990	04/27/2009
+1629.SubjectIBD117	yes	CD	no	female	2	not applicable	1990	07/09/2009
+1629.SubjectIBD118	yes	CD	no	female	3	not applicable	1990	10/15/2009
+1629.SubjectIBD119	no	CD	no	female	4	not applicable	1989	04/15/2010
+1629.SubjectIBD120	no	CD	no	female	5	not applicable	1989	06/21/2010
+1629.SubjectIBD121	no	CD	no	female	7	not applicable	1989	01/20/2011
+1629.SubjectIBD122	no	CD	no	female	8	not applicable	1989	03/17/2011
+1629.SubjectIBD123	no	CD	no	female	9	not applicable	1989	06/20/2011
+1629.SubjectIBD124	no	CD	no	female	1	not applicable	1989	09/30/2009
+1629.SubjectIBD125	no	CD	no	female	2	not applicable	1989	12/29/2009
+1629.SubjectIBD126	not applicable	UC	not applicable	female	2	Proctitis (E1)	1984	02/18/2010
+1629.SubjectIBD127	not applicable	UC	not applicable	female	5	Proctitis (E1)	1984	12/02/2010
+1629.SubjectIBD128	not applicable	UC	not applicable	female	6	Proctitis (E1)	1984	02/16/2011
+1629.SubjectIBD129	not applicable	UC	not applicable	female	8	Proctitis (E1)	1984	08/25/2011
+1629.SubjectIBD130	not applicable	UC	not applicable	male	1	Left sided (E2)	1980	02/08/2010
+1629.SubjectIBD131	not applicable	UC	not applicable	male	2	Left sided (E2)	1980	03/30/2010
+1629.SubjectIBD132	not applicable	UC	not applicable	male	3	Left sided (E2)	1980	04/22/2010
+1629.SubjectIBD133	not applicable	UC	not applicable	male	4	Left sided (E2)	1980	07/27/2010
+1629.SubjectIBD134	not applicable	UC	not applicable	male	5	Left sided (E2)	1980	10/21/2010
+1629.SubjectIBD135	not applicable	UC	not applicable	male	6	Left sided (E2)	1980	01/25/2011
+1629.SubjectIBD136	not applicable	UC	not applicable	male	7	Left sided (E2)	1980	04/26/2011
+1629.SubjectIBD137	not applicable	UC	not applicable	male	8	Left sided (E2)	1980	07/27/2011
+1629.SubjectIBD138	yes	CD	no	male	4	not applicable	1984	02/10/2010
+1629.SubjectIBD139	yes	CD	no	male	5	not applicable	1984	05/04/2010
+1629.SubjectIBD140	yes	CD	no	male	6	not applicable	1984	09/09/2010
+1629.SubjectIBD141	yes	CD	no	male	7	not applicable	1984	11/10/2010
+1629.SubjectIBD142	yes	CD	no	male	8	not applicable	1984	02/03/2011
+1629.SubjectIBD143	yes	CD	no	male	1	not applicable	1984	05/12/2009
+1629.SubjectIBD144	yes	CD	no	male	2	not applicable	1984	08/11/2009
+1629.SubjectIBD145	yes	CD	no	male	3	not applicable	1984	11/03/2009
+1629.SubjectIBD146	yes	CD	yes	male	1	not applicable	1990	03/08/2010
+1629.SubjectIBD147	not applicable	UC	not applicable	female	2	Left sided (E2)	2002	02/10/2010
+1629.SubjectIBD148	not applicable	UC	not applicable	female	3	Left sided (E2)	2002	05/05/2010
+1629.SubjectIBD149	not applicable	UC	not applicable	female	5	Left sided (E2)	2002	11/03/2010
+1629.SubjectIBD150	not applicable	UC	not applicable	female	6	Left sided (E2)	2002	12/09/2010
+1629.SubjectIBD151	not applicable	UC	not applicable	female	7	Left sided (E2)	2002	02/02/2011
+1629.SubjectIBD152	not applicable	UC	not applicable	female	8	Left sided (E2)	2002	05/04/2011
+1629.SubjectIBD153	not applicable	UC	not applicable	female	9	Left sided (E2)	2002	07/28/2011
+1629.SubjectIBD154	not applicable	UC	not applicable	female	1	Left sided (E2)	2002	11/04/2009
+1629.SubjectIBD155	not applicable	UC	not applicable	male	1	Proctitis (E1)	2004	05/06/2010
+1629.SubjectIBD156	not applicable	UC	not applicable	male	2	Proctitis (E1)	2004	06/01/2010
+1629.SubjectIBD157	not applicable	UC	not applicable	male	3	Proctitis (E1)	2004	08/19/2010
+1629.SubjectIBD158	not applicable	UC	not applicable	male	4	Proctitis (E1)	2004	11/30/2010
+1629.SubjectIBD159	not applicable	UC	not applicable	male	5	Proctitis (E1)	2004	02/24/2011
+1629.SubjectIBD160	not applicable	UC	not applicable	male	7	Proctitis (E1)	2004	08/30/2011
+1629.SubjectIBD161	yes	CD	no	female	4	not applicable	1965	03/10/2010
+1629.SubjectIBD162	yes	CD	no	female	5	not applicable	1965	06/10/2010
+1629.SubjectIBD163	yes	CD	no	female	7	not applicable	1965	12/07/2010
+1629.SubjectIBD164	yes	CD	no	female	8	not applicable	1965	03/09/2011
+1629.SubjectIBD165	yes	CD	no	female	1	not applicable	1965	06/09/2009
+1629.SubjectIBD166	yes	CD	no	female	2	not applicable	1965	09/09/2009
+1629.SubjectIBD167	yes	CD	no	female	3	not applicable	1965	12/09/2009
+1629.SubjectIBD168	not applicable	UC	not applicable	female	1	Proctitis (E1)	2005	04/26/2010
+1629.SubjectIBD169	not applicable	UC	not applicable	female	2	Proctitis (E1)	2005	07/08/2010
+1629.SubjectIBD170	not applicable	UC	not applicable	female	5	Proctitis (E1)	2005	04/19/2011
+1629.SubjectIBD171	yes	CD	no	male	2	not applicable	1983	03/03/2010
+1629.SubjectIBD172	yes	CD	no	male	3	not applicable	1983	06/23/2010
+1629.SubjectIBD173	yes	CD	no	male	4	not applicable	1983	11/09/2010
+1629.SubjectIBD174	yes	CD	no	male	5	not applicable	1983	02/23/2011
+1629.SubjectIBD175	yes	CD	no	male	6	not applicable	1983	05/19/2011
+1629.SubjectIBD176	yes	CD	no	male	1	not applicable	1983	10/21/2009
+1629.SubjectIBD177	not applicable	UC	not applicable	male	6	Left sided (E2)	1978	02/11/2010
+1629.SubjectIBD178	not applicable	UC	not applicable	male	7	Left sided (E2)	1978	05/19/2010
+1629.SubjectIBD179	not applicable	UC	not applicable	male	9	Left sided (E2)	1978	11/09/2010
+1629.SubjectIBD180	not applicable	UC	not applicable	male	10	Left sided (E2)	1978	11/24/2010
+1629.SubjectIBD181	not applicable	UC	not applicable	male	1	Left sided (E2)	1978	02/25/2009
+1629.SubjectIBD182	not applicable	UC	not applicable	male	2	Left sided (E2)	1978	03/19/2009
+1629.SubjectIBD183	not applicable	UC	not applicable	male	3	Left sided (E2)	1978	05/12/2009
+1629.SubjectIBD184	not applicable	UC	not applicable	male	4	Left sided (E2)	1978	08/19/2009
+1629.SubjectIBD185	not applicable	UC	not applicable	male	5	Left sided (E2)	1978	11/17/2009
+1629.SubjectIBD186	not applicable	UC	not applicable	female	1	Proctitis (E1)	1986	05/13/2009
+1629.SubjectIBD187	no	CD	yes	male	1	not applicable	1993	05/20/2010
+1629.SubjectIBD188	no	CD	yes	male	2	not applicable	1993	09/14/2010
+1629.SubjectIBD189	no	CD	yes	male	3	not applicable	1993	02/16/2011
+1629.SubjectIBD190	no	CD	yes	male	4	not applicable	1993	05/10/2011
+1629.SubjectIBD191	no	CD	yes	male	5	not applicable	1993	08/16/2011
+1629.SubjectIBD192	not applicable	UC	not applicable	male	5	Extensive (E3)	1982	06/10/2010
+1629.SubjectIBD193	not applicable	UC	not applicable	male	6	Extensive (E3)	1982	09/16/2010
+1629.SubjectIBD194	not applicable	UC	not applicable	male	7	Extensive (E3)	1982	01/11/2011
+1629.SubjectIBD195	not applicable	UC	not applicable	male	1	Extensive (E3)	1982	03/26/2009
+1629.SubjectIBD196	not applicable	UC	not applicable	male	2	Extensive (E3)	1982	06/16/2009
+1629.SubjectIBD197	not applicable	UC	not applicable	male	3	Extensive (E3)	1982	09/21/2009
+1629.SubjectIBD198	not applicable	UC	not applicable	male	4	not applicable	1982	12/15/2009
+1629.SubjectIBD199	not applicable	UC	not applicable	male	1	Left sided (E2)	1999	03/25/2010
+1629.SubjectIBD200	not applicable	UC	not applicable	male	2	Left sided (E2)	1999	06/15/2010
+1629.SubjectIBD201	not applicable	UC	not applicable	male	3	Left sided (E2)	1999	09/07/2010
+1629.SubjectIBD202	not applicable	UC	not applicable	male	5	Left sided (E2)	1999	03/15/2011
+1629.SubjectIBD203	not applicable	UC	not applicable	male	6	Left sided (E2)	1999	06/14/2011
+1629.SubjectIBD204	yes	CD	no	male	1	not applicable	1983	01/26/2010
+1629.SubjectIBD205	yes	CD	no	male	2	not applicable	1983	04/13/2010
+1629.SubjectIBD206	yes	CD	no	male	2	not applicable	1983	04/13/2010
+1629.SubjectIBD207	yes	CD	no	male	3	not applicable	1983	07/08/2010
+1629.SubjectIBD208	yes	CD	no	male	4	not applicable	1983	10/19/2010
+1629.SubjectIBD209	yes	CD	no	male	6	not applicable	1983	04/15/2011
+1629.SubjectIBD210	not applicable	UC	not applicable	male	2	Left sided (E2)	1981	02/09/2010
+1629.SubjectIBD211	not applicable	UC	not applicable	male	3	Left sided (E2)	1981	05/06/2010
+1629.SubjectIBD212	not applicable	UC	not applicable	male	4	Left sided (E2)	1981	08/10/2010
+1629.SubjectIBD213	not applicable	UC	not applicable	male	5	Left sided (E2)	1981	11/17/2010
+1629.SubjectIBD214	not applicable	UC	not applicable	male	6	Left sided (E2)	1981	02/03/2011
+1629.SubjectIBD215	not applicable	UC	not applicable	male	7	Left sided (E2)	1981	05/05/2011
+1629.SubjectIBD216	not applicable	UC	not applicable	male	8	Left sided (E2)	1981	08/18/2011
+1629.SubjectIBD217	not applicable	UC	not applicable	male	1	Left sided (E2)	1981	11/16/2009
+1629.SubjectIBD218	yes	CD	no	male	2	not applicable	2001	06/17/2010
+1629.SubjectIBD219	not applicable	UC	not applicable	female	1	Extensive (E3)	2005	01/20/2010
+1629.SubjectIBD220	not applicable	UC	not applicable	male	3	Extensive (E3)	1997	03/15/2010
+1629.SubjectIBD221	not applicable	UC	not applicable	male	1	Extensive (E3)	1997	08/19/2009
+1629.SubjectIBD222	not applicable	UC	not applicable	male	2	Extensive (E3)	1997	11/16/2009
+1629.SubjectIBD223	not applicable	UC	not applicable	male	1	Extensive (E3)	1999	01/20/2010
+1629.SubjectIBD224	not applicable	UC	not applicable	male	2	Extensive (E3)	1999	04/13/2010
+1629.SubjectIBD225	not applicable	UC	not applicable	male	3	Extensive (E3)	1999	09/09/2010
+1629.SubjectIBD226	not applicable	UC	not applicable	male	4	Extensive (E3)	1999	01/25/2011
+1629.SubjectIBD227	not applicable	UC	not applicable	male	5	Extensive (E3)	1999	04/28/2011
+1629.SubjectIBD228	not applicable	UC	not applicable	male	6	Extensive (E3)	1999	07/13/2011
+1629.SubjectIBD229	not applicable	UC	not applicable	female	1	Left sided (E2)	2004	04/13/2010
+1629.SubjectIBD230	not applicable	UC	not applicable	female	2	Left sided (E2)	2004	08/05/2010
+1629.SubjectIBD231	not applicable	UC	not applicable	female	3	Left sided (E2)	2004	04/07/2011
+1629.SubjectIBD232	not applicable	UC	not applicable	female	4	Left sided (E2)	2004	08/02/2011
+1629.SubjectIBD233	yes	CD	no	female	1	not applicable	1970	04/20/2010
+1629.SubjectIBD234	no	CD	no	male	2	not applicable	2000	07/01/2010
+1629.SubjectIBD235	not applicable	UC	not applicable	male	2	Extensive (E3)	1998	03/18/2010
+1629.SubjectIBD236	not applicable	UC	not applicable	male	5	Extensive (E3)	1998	06/21/2010
+1629.SubjectIBD237	not applicable	UC	not applicable	male	3	Extensive (E3)	1998	06/21/2010
+1629.SubjectIBD238	not applicable	UC	not applicable	male	4	Extensive (E3)	1998	09/24/2010
+1629.SubjectIBD239	not applicable	UC	not applicable	male	6	Extensive (E3)	1998	04/07/2011
+1629.SubjectIBD240	not applicable	UC	not applicable	male	7	Extensive (E3)	1998	06/30/2011
+1629.SubjectIBD241	not applicable	UC	not applicable	male	1	Extensive (E3)	1998	09/23/2009
+1629.SubjectIBD242	yes	CD	yes	male	2	not applicable	1991	03/30/2010
+1629.SubjectIBD243	yes	CD	yes	male	3	not applicable	1991	07/17/2010
+1629.SubjectIBD244	yes	CD	yes	male	4	not applicable	1991	10/05/2010
+1629.SubjectIBD245	yes	CD	yes	male	5	not applicable	1991	12/15/2010
+1629.SubjectIBD246	yes	CD	yes	male	6	not applicable	1991	04/06/2011
+1629.SubjectIBD247	yes	CD	yes	male	1	not applicable	1991	12/22/2009
+1629.SubjectIBD248	no	CD	no	male	4	not applicable	1990	02/25/2010
+1629.SubjectIBD249	not applicable	UC	not applicable	male	4	Extensive (E3)	2001	08/26/2010
+1629.SubjectIBD250	no	CD	no	male	6	not applicable	1990	08/26/2010
+1629.SubjectIBD251	no	CD	no	male	7	not applicable	1990	11/25/2010
+1629.SubjectIBD252	no	CD	no	male	8	not applicable	1990	02/24/2011
+1629.SubjectIBD253	no	CD	no	male	1	not applicable	1990	06/10/2009
+1629.SubjectIBD254	no	CD	no	male	2	not applicable	1990	09/03/2009
+1629.SubjectIBD255	no	CD	no	male	3	not applicable	1990	11/26/2009
+1629.SubjectIBD256	yes	CD	no	male	2	not applicable	1994	03/16/2010
+1629.SubjectIBD257	yes	CD	no	male	3	not applicable	1994	06/10/2010
+1629.SubjectIBD258	yes	CD	no	male	4	not applicable	1994	09/14/2010
+1629.SubjectIBD259	yes	CD	no	male	6	not applicable	1994	03/01/2011
+1629.SubjectIBD260	yes	CD	no	male	1	not applicable	1994	12/16/2009
+1629.SubjectIBD261	yes	CD	no	male	1	not applicable	1994	05/19/2009
+1629.SubjectIBD262	no	CD	yes	female	5	not applicable	1985	03/04/2010
+1629.SubjectIBD263	no	CD	yes	female	6	not applicable	1985	06/03/2010
+1629.SubjectIBD264	no	CD	yes	female	7	not applicable	1985	09/07/2010
+1629.SubjectIBD265	no	CD	yes	female	8	not applicable	1985	12/07/2010
+1629.SubjectIBD266	no	CD	yes	female	2	not applicable	1985	06/09/2009
+1629.SubjectIBD267	no	CD	yes	female	3	not applicable	1985	09/03/2009
+1629.SubjectIBD268	no	CD	yes	female	4	not applicable	1985	12/08/2009
+1629.SubjectIBD269	not applicable	UC	not applicable	female	1	Left sided (E2)	2003	01/14/2010
+1629.SubjectIBD270	not applicable	UC	not applicable	female	2	Left sided (E2)	2003	05/19/2010
+1629.SubjectIBD271	not applicable	UC	not applicable	female	2	Left sided (E2)	2003	01/05/2010
+1629.SubjectIBD272	not applicable	UC	not applicable	female	3	Left sided (E2)	2003	03/25/2010
+1629.SubjectIBD273	not applicable	UC	not applicable	female	4	Left sided (E2)	2003	09/07/2010
+1629.SubjectIBD274	not applicable	UC	not applicable	female	5	Left sided (E2)	2003	01/20/2011
+1629.SubjectIBD275	not applicable	UC	not applicable	female	4	Extensive (E3)	1994	02/17/2010
+1629.SubjectIBD276	not applicable	UC	not applicable	female	5	Extensive (E3)	1994	05/06/2010
+1629.SubjectIBD277	not applicable	UC	not applicable	female	6	Extensive (E3)	1994	08/05/2010
+1629.SubjectIBD278	not applicable	UC	not applicable	female	7	Extensive (E3)	1994	11/09/2010
+1629.SubjectIBD279	not applicable	UC	not applicable	female	8	Extensive (E3)	1994	02/08/2011
+1629.SubjectIBD280	not applicable	UC	not applicable	female	2	Extensive (E3)	1994	08/13/2009
+1629.SubjectIBD281	not applicable	UC	not applicable	female	3	Extensive (E3)	1994	11/05/2009
+1629.SubjectIBD282	no	CD	no	female	3	not applicable	1980	08/06/2010
+1629.SubjectIBD283	no	CD	no	female	1	not applicable	1980	03/11/2009
+1629.SubjectIBD284	no	CD	no	female	2	not applicable	1980	06/16/2009
+1629.SubjectIBD285	not applicable	UC	not applicable	male	2	Left sided (E2)	1983	03/30/2010
+1629.SubjectIBD286	not applicable	UC	not applicable	male	3	Left sided (E2)	1983	07/06/2010
+1629.SubjectIBD287	not applicable	UC	not applicable	male	5	Left sided (E2)	1983	01/11/2011
+1629.SubjectIBD288	not applicable	UC	not applicable	male	6	Left sided (E2)	1983	03/31/2011
+1629.SubjectIBD289	not applicable	UC	not applicable	male	1	Left sided (E2)	1983	12/29/2009
+1629.SubjectIBD290	not applicable	UC	not applicable	female	5	Left sided (E2)	1979	03/03/2010
+1629.SubjectIBD291	not applicable	UC	not applicable	female	6	Left sided (E2)	1979	06/02/2010
+1629.SubjectIBD292	not applicable	UC	not applicable	female	7	Left sided (E2)	1979	08/26/2010
+1629.SubjectIBD293	not applicable	UC	not applicable	female	8	Left sided (E2)	1979	11/24/2010
+1629.SubjectIBD294	not applicable	UC	not applicable	female	1	Left sided (E2)	1979	03/11/2009
+1629.SubjectIBD295	not applicable	UC	not applicable	female	2	Left sided (E2)	1979	06/09/2009
+1629.SubjectIBD296	not applicable	UC	not applicable	female	3	Left sided (E2)	1979	09/02/2009
+1629.SubjectIBD297	not applicable	UC	not applicable	female	1	Proctitis (E1)	2005	03/03/2010
+1629.SubjectIBD298	not applicable	UC	not applicable	female	1	Extensive (E3)	1986	04/14/2010
+1629.SubjectIBD299	not applicable	UC	not applicable	female	2	Extensive (E3)	1986	07/14/2010
+1629.SubjectIBD300	not applicable	UC	not applicable	female	3	Extensive (E3)	1986	10/13/2010
+1629.SubjectIBD301	not applicable	UC	not applicable	female	4	Extensive (E3)	1986	01/18/2011
+1629.SubjectIBD302	not applicable	UC	not applicable	female	5	Extensive (E3)	1986	04/13/2011
+1629.SubjectIBD303	not applicable	UC	not applicable	female	6	Extensive (E3)	1986	07/19/2011
+1629.SubjectIBD304	no	CD	no	female	3	not applicable	1990	03/25/2010
+1629.SubjectIBD305	no	CD	no	female	4	not applicable	1990	06/22/2010
+1629.SubjectIBD306	no	CD	no	female	5	not applicable	1990	09/16/2010
+1629.SubjectIBD307	no	CD	no	female	6	not applicable	1990	12/16/2010
+1629.SubjectIBD308	no	CD	no	female	1	not applicable	1990	03/30/2009
+1629.SubjectIBD309	no	CD	no	female	2	not applicable	1990	07/09/2009
+1629.SubjectIBD310	yes	CD	no	female	1	not applicable	1965	01/19/2010
+1629.SubjectIBD311	yes	CD	no	female	2	not applicable	1965	04/08/2010
+1629.SubjectIBD312	yes	CD	no	female	3	not applicable	1965	07/14/2010
+1629.SubjectIBD313	yes	CD	no	female	4	not applicable	1965	10/13/2010
+1629.SubjectIBD314	yes	CD	no	female	5	not applicable	1965	01/12/2011
+1629.SubjectIBD315	yes	CD	no	female	6	not applicable	1965	04/13/2011
+1629.SubjectIBD316	yes	CD	no	female	7	not applicable	1965	07/21/2011
+1629.SubjectIBD317	yes	CD	no	female	1	not applicable	1976	02/16/2010
+1629.SubjectIBD318	not applicable	UC	not applicable	female	1	Left sided (E2)	1977	03/10/2010
+1629.SubjectIBD319	not applicable	UC	not applicable	female	2	Left sided (E2)	1977	06/07/2010
+1629.SubjectIBD320	not applicable	UC	not applicable	female	4	Left sided (E2)	1977	12/06/2010
+1629.SubjectIBD321	not applicable	UC	not applicable	female	5	Left sided (E2)	1977	03/01/2011
+1629.SubjectIBD322	not applicable	UC	not applicable	female	6	Left sided (E2)	1977	06/09/2011
+1629.SubjectIBD323	yes	CD	no	male	1	not applicable	2002	03/01/2010
+1629.SubjectIBD324	yes	CD	no	male	2	not applicable	2002	05/17/2010
+1629.SubjectIBD325	yes	CD	no	male	3	not applicable	2002	07/02/2010
+1629.SubjectIBD326	yes	CD	no	male	4	not applicable	2002	08/19/2010
+1629.SubjectIBD327	yes	CD	no	male	5	not applicable	2002	12/20/2010
+1629.SubjectIBD328	yes	CD	no	male	6	not applicable	2002	05/23/2011
+1629.SubjectIBD329	yes	CD	yes	male	2	not applicable	1982	03/03/2010
+1629.SubjectIBD330	yes	CD	yes	male	3	not applicable	1982	06/02/2010
+1629.SubjectIBD331	yes	CD	yes	male	4	not applicable	1982	09/02/2010
+1629.SubjectIBD332	yes	CD	yes	male	5	not applicable	1982	11/24/2010
+1629.SubjectIBD333	yes	CD	yes	male	6	not applicable	1982	04/05/2011
+1629.SubjectIBD334	yes	CD	yes	male	1	not applicable	1982	12/02/2009
+1629.SubjectIBD335	not applicable	UC	not applicable	female	1	Proctitis (E1)	2003	03/09/2010
+1629.SubjectIBD336	not applicable	UC	not applicable	female	2	Proctitis (E1)	2003	06/10/2010
+1629.SubjectIBD337	not applicable	UC	not applicable	female	3	Proctitis (E1)	2003	08/04/2010
+1629.SubjectIBD338	not applicable	UC	not applicable	female	4	Proctitis (E1)	2003	06/16/2010
+1629.SubjectIBD339	yes	CD	no	female	5	not applicable	2004	03/25/2010
+1629.SubjectIBD340	yes	CD	no	female	6	not applicable	2004	09/30/2010
+1629.SubjectIBD341	yes	CD	no	female	1	not applicable	2004	04/16/2009
+1629.SubjectIBD342	yes	CD	no	female	2	not applicable	2004	07/28/2009
+1629.SubjectIBD343	no	CD	no	male	1	not applicable	1952	03/25/2010
+1629.SubjectIBD344	no	CD	no	male	2	not applicable	1952	08/03/2010
+1629.SubjectIBD345	no	CD	no	male	5	not applicable	2004	03/03/2010
+1629.SubjectIBD346	no	CD	no	male	1	not applicable	2004	07/14/2009
+1629.SubjectIBD347	no	CD	no	male	2	not applicable	2004	09/23/2009
+1629.SubjectIBD348	no	CD	no	male	3	not applicable	2004	11/17/2009
+1629.SubjectIBD349	no	CD	no	male	4	not applicable	2004	12/08/2009
+1629.SubjectIBD350	not applicable	UC	not applicable	female	4	Proctitis (E1)	1996	01/19/2010
+1629.SubjectIBD351	not applicable	UC	not applicable	female	5	Proctitis (E1)	1996	04/08/2010
+1629.SubjectIBD352	not applicable	UC	not applicable	female	6	Proctitis (E1)	1996	06/29/2010
+1629.SubjectIBD353	not applicable	UC	not applicable	female	7	Proctitis (E1)	1996	09/30/2010
+1629.SubjectIBD354	not applicable	UC	not applicable	female	9	Proctitis (E1)	1996	03/16/2011
+1629.SubjectIBD355	not applicable	UC	not applicable	female	2	Proctitis (E1)	1996	06/24/2009
+1629.SubjectIBD356	not applicable	UC	not applicable	female	3	Proctitis (E1)	1996	09/29/2009
+1629.SubjectIBD357	no	CD	no	female	1	not applicable	2000	04/28/2009
+1629.SubjectIBD358	not applicable	UC	not applicable	male	1	Extensive (E3)	2001	02/24/2010
+1629.SubjectIBD359	not applicable	UC	not applicable	male	1	Extensive (E3)	1999	02/27/2009
+1629.SubjectIBD360	not applicable	UC	not applicable	male	6	Left sided (E2)	2007	05/26/2010
+1629.SubjectIBD361	not applicable	UC	not applicable	male	7	Left sided (E2)	2007	08/31/2010
+1629.SubjectIBD362	not applicable	UC	not applicable	male	1	Left sided (E2)	2007	03/02/2009
+1629.SubjectIBD363	not applicable	UC	not applicable	male	2	Left sided (E2)	2007	05/28/2009
+1629.SubjectIBD364	not applicable	UC	not applicable	male	3	Left sided (E2)	2007	09/15/2009
+1629.SubjectIBD365	not applicable	UC	not applicable	male	4	Left sided (E2)	2007	12/07/2009
+1629.SubjectIBD366	not applicable	UC	not applicable	female	1	Extensive (E3)	2002	04/06/2009
+1629.SubjectIBD367	not applicable	UC	not applicable	female	2	Extensive (E3)	2002	07/01/2009
+1629.SubjectIBD368	not applicable	UC	not applicable	male	1	Left sided (E2)	1999	04/06/2010
+1629.SubjectIBD369	not applicable	UC	not applicable	male	2	Left sided (E2)	1999	06/17/2010
+1629.SubjectIBD370	not applicable	UC	not applicable	male	4	Left sided (E2)	1999	12/16/2010
+1629.SubjectIBD371	not applicable	UC	not applicable	male	5	Left sided (E2)	1999	03/29/2011
+1629.SubjectIBD372	not applicable	UC	not applicable	male	1	Extensive (E3)	1966	05/20/2010
+1629.SubjectIBD373	not applicable	UC	not applicable	male	2	Extensive (E3)	1966	08/18/2010
+1629.SubjectIBD374	not applicable	UC	not applicable	male	3	Extensive (E3)	1966	11/16/2010
+1629.SubjectIBD375	not applicable	UC	not applicable	male	4	Extensive (E3)	1966	02/09/2011
+1629.SubjectIBD376	not applicable	UC	not applicable	male	5	Extensive (E3)	1966	05/17/2011
+1629.SubjectIBD377	not applicable	UC	not applicable	male	6	Extensive (E3)	1966	08/22/2011
+1629.SubjectIBD378	not applicable	UC	not applicable	female	2	Proctitis (E1)	2002	01/27/2010
+1629.SubjectIBD379	not applicable	UC	not applicable	female	3	Proctitis (E1)	2002	03/10/2010
+1629.SubjectIBD380	no	CD	no	female	2	not applicable	1996	01/20/2010
+1629.SubjectIBD381	no	CD	no	female	3	not applicable	1996	03/10/2010
+1629.SubjectIBD382	no	CD	no	female	1	not applicable	1996	09/15/2009
+1629.SubjectIBD383	no	CD	no	male	5	not applicable	1972	02/23/2010
+1629.SubjectIBD384	no	CD	no	male	6	not applicable	1972	05/25/2010
+1629.SubjectIBD385	no	CD	no	male	7	not applicable	1972	08/24/2010
+1629.SubjectIBD386	no	CD	no	male	1	not applicable	1972	03/03/2009
+1629.SubjectIBD387	no	CD	no	male	2	not applicable	1972	05/22/2009
+1629.SubjectIBD388	no	CD	no	male	3	not applicable	1972	08/25/2009
+1629.SubjectIBD389	no	CD	no	male	4	not applicable	1972	11/26/2009
+1629.SubjectIBD390	yes	CD	yes	male	1	not applicable	2000	03/25/2010
+1629.SubjectIBD391	yes	CD	yes	male	2	not applicable	2000	06/14/2010
+1629.SubjectIBD392	yes	CD	yes	male	4	not applicable	2000	12/15/2010
+1629.SubjectIBD393	no	CD	no	female	2	not applicable	2007	01/26/2010
+1629.SubjectIBD394	no	CD	no	female	3	not applicable	2007	03/10/2010
+1629.SubjectIBD395	no	CD	no	female	4	not applicable	2007	06/10/2010
+1629.SubjectIBD396	no	CD	no	female	5	not applicable	2007	08/26/2010
+1629.SubjectIBD397	no	CD	no	female	6	not applicable	2007	12/08/2010
+1629.SubjectIBD398	no	CD	no	female	7	not applicable	2007	03/22/2011
+1629.SubjectIBD399	no	CD	no	female	1	not applicable	2007	06/10/2009
+1629.SubjectIBD400	not applicable	UC	not applicable	male	3	Left sided (E2)	2007	02/10/2010
+1629.SubjectIBD401	not applicable	UC	not applicable	male	4	Left sided (E2)	2007	05/11/2010
+1629.SubjectIBD402	not applicable	UC	not applicable	male	5	Left sided (E2)	2007	08/26/2010
+1629.SubjectIBD403	not applicable	UC	not applicable	female	3	Left sided (E2)	2007	11/03/2010
+1629.SubjectIBD404	not applicable	UC	not applicable	male	8	Left sided (E2)	2007	02/02/2011
+1629.SubjectIBD405	not applicable	UC	not applicable	male	2	Left sided (E2)	2007	11/11/2009
+1629.SubjectIBD406	not applicable	UC	not applicable	female	6	Extensive (E3)	2008	03/01/2010
+1629.SubjectIBD407	not applicable	UC	not applicable	female	7	Extensive (E3)	2008	06/15/2010
+1629.SubjectIBD408	not applicable	UC	not applicable	male	6	Left sided (E2)	2007	09/01/2010
+1629.SubjectIBD409	not applicable	UC	not applicable	female	9	Extensive (E3)	2008	12/28/2010
+1629.SubjectIBD410	not applicable	UC	not applicable	female	10	Extensive (E3)	2008	02/02/2011
+1629.SubjectIBD411	not applicable	UC	not applicable	female	1	Extensive (E3)	2008	02/23/2009
+1629.SubjectIBD412	not applicable	UC	not applicable	female	2	Extensive (E3)	2008	03/23/2009
+1629.SubjectIBD413	not applicable	UC	not applicable	female	3	Extensive (E3)	2008	05/13/2009
+1629.SubjectIBD414	not applicable	UC	not applicable	female	4	Extensive (E3)	2008	09/03/2009
+1629.SubjectIBD415	not applicable	UC	not applicable	female	5	Extensive (E3)	2008	11/26/2009
+1629.SubjectIBD416	not applicable	UC	not applicable	female	2	Left sided (E2)	2003	03/25/2010
+1629.SubjectIBD417	not applicable	UC	not applicable	male	6	Extensive (E3)	1998	09/16/2010
+1629.SubjectIBD418	not applicable	UC	not applicable	female	5	Left sided (E2)	2003	01/13/2011
+1629.SubjectIBD419	not applicable	UC	not applicable	female	1	Left sided (E2)	2003	12/16/2009
+1629.SubjectIBD420	not applicable	UC	not applicable	female	4	Extensive (E3)	1993	03/09/2010
+1629.SubjectIBD421	not applicable	UC	not applicable	female	7	Extensive (E3)	2008	06/15/2010
+1629.SubjectIBD422	no	CD	no	male	6	not applicable	1990	09/02/2010
+1629.SubjectIBD423	not applicable	UC	not applicable	male	7	Left sided (E2)	2007	11/25/2010
+1629.SubjectIBD424	not applicable	UC	not applicable	female	7	Extensive (E3)	1993	11/25/2010
+1629.SubjectIBD425	not applicable	UC	not applicable	female	1	Extensive (E3)	1993	03/10/2009
+1629.SubjectIBD426	not applicable	UC	not applicable	female	2	Extensive (E3)	1993	06/03/2009
+1629.SubjectIBD427	not applicable	UC	not applicable	female	3	Extensive (E3)	1993	09/03/2009
+1629.SubjectIBD428	yes	CD	yes	male	1	not applicable	1966	03/11/2009
+1629.SubjectIBD429	yes	CD	yes	male	3	not applicable	1966	09/02/2009
+1629.SubjectIBD430	yes	CD	yes	male	4	not applicable	1966	11/04/2009
+1629.SubjectIBD431	not applicable	UC	not applicable	female	1	Left sided (E2)	2007	03/23/2010
+1629.SubjectIBD432	not applicable	UC	not applicable	female	2	Left sided (E2)	2007	06/10/2010
+1629.SubjectIBD433	not applicable	UC	not applicable	female	7	Extensive (E3)	1966	09/16/2010
+1629.SubjectIBD434	not applicable	UC	not applicable	female	4	Left sided (E2)	2007	12/09/2010
+1629.SubjectIBD435	no	CD	no	male	3	not applicable	2007	01/20/2010
+1629.SubjectIBD436	no	CD	no	male	4	not applicable	2007	04/14/2010
+1629.SubjectIBD437	no	CD	no	male	5	not applicable	2007	07/13/2010
+1629.SubjectIBD438	no	CD	no	male	6	not applicable	2007	10/26/2010
+1629.SubjectIBD439	no	CD	no	male	7	not applicable	2007	01/20/2011
+1629.SubjectIBD440	no	CD	no	male	8	not applicable	2007	04/28/2011
+1629.SubjectIBD441	no	CD	no	male	1	not applicable	2007	07/24/2009
+1629.SubjectIBD442	no	CD	no	male	2	not applicable	2007	10/19/2009
+1629.SubjectIBD443	not applicable	UC	not applicable	female	1	Extensive (E3)	1989	03/29/2010
+1629.SubjectIBD444	not applicable	UC	not applicable	female	3	Left sided (E2)	2003	07/14/2010
+1629.SubjectIBD445	not applicable	UC	not applicable	female	4	Left sided (E2)	2003	11/25/2010
+1629.SubjectIBD446	not applicable	UC	not applicable	female	3	Extensive (E3)	1989	11/25/2010
+1629.SubjectIBD447	not applicable	UC	not applicable	male	1	Extensive (E3)	2000	06/25/2009
+1629.SubjectIBD448	not applicable	UC	not applicable	female	5	Extensive (E3)	1966	03/15/2010
+1629.SubjectIBD449	not applicable	UC	not applicable	female	6	Extensive (E3)	1966	06/07/2010
+1629.SubjectIBD450	not applicable	UC	not applicable	female	8	Extensive (E3)	2008	09/07/2010
+1629.SubjectIBD451	not applicable	UC	not applicable	female	8	Extensive (E3)	1966	12/14/2010
+1629.SubjectIBD452	not applicable	UC	not applicable	female	1	Extensive (E3)	1966	03/16/2009
+1629.SubjectIBD453	not applicable	UC	not applicable	female	2	Extensive (E3)	1966	06/10/2009
+1629.SubjectIBD454	not applicable	UC	not applicable	female	3	Extensive (E3)	1966	09/09/2009
+1629.SubjectIBD455	not applicable	UC	not applicable	female	4	Extensive (E3)	1966	12/08/2009
+1629.SubjectIBD456	yes	CD	no	female	1	not applicable	1986	05/11/2010
+1629.SubjectIBD457	no	CD	no	male	2	not applicable	2008	02/25/2010
+1629.SubjectIBD458	no	CD	no	male	4	not applicable	2008	09/03/2010
+1629.SubjectIBD459	no	CD	no	male	1	not applicable	2008	12/02/2009
+1629.SubjectIBD460	not applicable	UC	not applicable	male	1	Left sided (E2)	1977	03/26/2009
+1629.SubjectIBD461	not applicable	UC	not applicable	male	2	Left sided (E2)	1977	09/10/2009
+1629.SubjectIBD462	not applicable	UC	not applicable	male	1	Extensive (E3)	1997	06/10/2009
+1629.SubjectIBD463	not applicable	UC	not applicable	male	4	Extensive (E3)	1998	03/17/2010
+1629.SubjectIBD464	not applicable	UC	not applicable	female	5	Extensive (E3)	1993	06/16/2010
+1629.SubjectIBD465	not applicable	UC	not applicable	female	6	Extensive (E3)	1993	09/09/2010
+1629.SubjectIBD466	not applicable	UC	not applicable	male	1	Extensive (E3)	1998	06/24/2009
+1629.SubjectIBD467	not applicable	UC	not applicable	male	2	Extensive (E3)	1998	09/10/2009
+1629.SubjectIBD468	not applicable	UC	not applicable	male	3	Extensive (E3)	1998	12/15/2009
+1629.SubjectIBD469	no	CD	no	female	5	not applicable	1995	02/02/2010
+1629.SubjectIBD470	no	CD	no	female	6	not applicable	1995	04/29/2010
+1629.SubjectIBD471	no	CD	no	female	7	not applicable	1995	08/03/2010
+1629.SubjectIBD472	no	CD	no	female	8	not applicable	1995	11/02/2010
+1629.SubjectIBD473	no	CD	no	female	9	not applicable	1995	01/27/2011
+1629.SubjectIBD474	no	CD	no	female	2	not applicable	1995	05/12/2009
+1629.SubjectIBD475	no	CD	no	female	3	not applicable	1995	08/04/2009
+1629.SubjectIBD476	not applicable	UC	not applicable	female	4	Extensive (E3)	1977	01/14/2010
+1629.SubjectIBD477	not applicable	UC	not applicable	female	5	Extensive (E3)	1977	04/08/2010
+1629.SubjectIBD478	not applicable	UC	not applicable	female	1	Extensive (E3)	1977	04/07/2009
+1629.SubjectIBD479	not applicable	UC	not applicable	female	2	Extensive (E3)	1977	07/07/2009
+1629.SubjectIBD480	not applicable	UC	not applicable	female	3	Extensive (E3)	1977	10/06/2009
+1629.SubjectIBD481	not applicable	HC	not applicable	male	4	not applicable	not applicable	03/30/2010
+1629.SubjectIBD482	not applicable	HC	not applicable	male	5	not applicable	not applicable	07/06/2010
+1629.SubjectIBD483	not applicable	HC	not applicable	male	6	not applicable	not applicable	09/16/2010
+1629.SubjectIBD484	not applicable	HC	not applicable	male	7	not applicable	not applicable	12/15/2010
+1629.SubjectIBD485	not applicable	HC	not applicable	male	8	not applicable	not applicable	03/16/2011
+1629.SubjectIBD486	not applicable	HC	not applicable	male	1	not applicable	not applicable	06/23/2009
+1629.SubjectIBD487	not applicable	HC	not applicable	male	2	not applicable	not applicable	09/15/2009
+1629.SubjectIBD488	not applicable	HC	not applicable	male	3	not applicable	not applicable	12/17/2009
+1629.SubjectIBD489	no	CD	no	male	4	not applicable	2008	03/25/2010
+1629.SubjectIBD490	no	CD	no	male	1	not applicable	2008	06/09/2009
+1629.SubjectIBD491	no	CD	no	male	3	not applicable	2008	12/03/2009
+1629.SubjectIBD492	not applicable	UC	not applicable	male	2	Left sided (E2)	1986	02/18/2010
+1629.SubjectIBD493	not applicable	UC	not applicable	male	3	Left sided (E2)	1986	05/27/2010
+1629.SubjectIBD494	not applicable	UC	not applicable	male	1	Left sided (E2)	1986	11/23/2009
+1629.SubjectIBD495	not applicable	HC	not applicable	female	2	not applicable	not applicable	02/24/2010
+1629.SubjectIBD496	not applicable	HC	not applicable	female	1	not applicable	not applicable	10/21/2009
+1629.SubjectIBD497	not applicable	HC	not applicable	female	2	not applicable	not applicable	01/28/2010
+1629.SubjectIBD498	not applicable	HC	not applicable	female	3	not applicable	not applicable	05/18/2010
+1629.SubjectIBD499	not applicable	HC	not applicable	female	1	not applicable	not applicable	11/09/2009
+1629.SubjectIBD500	not applicable	HC	not applicable	female	1	not applicable	not applicable	02/01/2010
+1629.SubjectIBD501	not applicable	HC	not applicable	female	2	not applicable	not applicable	04/12/2010
+1629.SubjectIBD502	not applicable	HC	not applicable	female	3	not applicable	not applicable	07/19/2010
+1629.SubjectIBD503	not applicable	HC	not applicable	female	4	not applicable	not applicable	10/11/2010
+1629.SubjectIBD504	not applicable	HC	not applicable	female	5	not applicable	not applicable	01/07/2011
+1629.SubjectIBD505	not applicable	HC	not applicable	female	5	not applicable	not applicable	01/07/2011
+1629.SubjectIBD506	not applicable	HC	not applicable	female	8	not applicable	not applicable	09/12/2011
+1629.SubjectIBD507	not applicable	HC	not applicable	male	4	not applicable	not applicable	01/07/2010
+1629.SubjectIBD508	not applicable	HC	not applicable	male	5	not applicable	not applicable	03/24/2010
+1629.SubjectIBD509	not applicable	HC	not applicable	male	6	not applicable	not applicable	07/12/2010
+1629.SubjectIBD510	not applicable	HC	not applicable	male	7	not applicable	not applicable	10/04/2010
+1629.SubjectIBD511	not applicable	HC	not applicable	male	8	not applicable	not applicable	01/18/2011
+1629.SubjectIBD512	not applicable	HC	not applicable	male	1	not applicable	not applicable	04/07/2009
+1629.SubjectIBD513	not applicable	HC	not applicable	male	2	not applicable	not applicable	06/23/2009
+1629.SubjectIBD514	not applicable	HC	not applicable	male	3	not applicable	not applicable	09/23/2009
+1629.SubjectIBD515	not applicable	HC	not applicable	female	4	not applicable	not applicable	01/14/2010
+1629.SubjectIBD516	not applicable	HC	not applicable	female	5	not applicable	not applicable	03/31/2010
+1629.SubjectIBD517	not applicable	HC	not applicable	female	6	not applicable	not applicable	07/09/2010
+1629.SubjectIBD518	not applicable	HC	not applicable	female	8	not applicable	not applicable	01/14/2011
+1629.SubjectIBD519	not applicable	HC	not applicable	female	1	not applicable	not applicable	04/06/2009
+1629.SubjectIBD520	not applicable	HC	not applicable	female	2	not applicable	not applicable	06/24/2009
+1629.SubjectIBD521	not applicable	HC	not applicable	female	3	not applicable	not applicable	09/24/2009
+1629.SubjectIBD522	not applicable	HC	not applicable	female	2	not applicable	not applicable	01/14/2010
+1629.SubjectIBD523	not applicable	HC	not applicable	female	3	not applicable	not applicable	04/09/2010
+1629.SubjectIBD524	not applicable	HC	not applicable	female	4	not applicable	not applicable	07/07/2010
+1629.SubjectIBD525	not applicable	HC	not applicable	female	5	not applicable	not applicable	10/15/2010
+1629.SubjectIBD526	not applicable	HC	not applicable	female	6	not applicable	not applicable	01/20/2011
+1629.SubjectIBD527	not applicable	HC	not applicable	female	7	not applicable	not applicable	04/28/2011
+1629.SubjectIBD528	not applicable	HC	not applicable	female	1	not applicable	not applicable	10/16/2009
+1629.SubjectIBD529	not applicable	UC	not applicable	male	1	Extensive (E3)	1992	02/10/2010
+1629.SubjectIBD530	not applicable	UC	not applicable	male	2	Extensive (E3)	1992	05/05/2010
+1629.SubjectIBD531	not applicable	CD	yes	female	1	not applicable	2004	06/24/2009
+1629.SubjectIBD532	not applicable	HC	not applicable	male	4	not applicable	not applicable	01/08/2010
+1629.SubjectIBD533	not applicable	HC	not applicable	male	5	not applicable	not applicable	04/29/2010
+1629.SubjectIBD534	not applicable	HC	not applicable	male	6	not applicable	not applicable	10/04/2010
+1629.SubjectIBD535	not applicable	HC	not applicable	male	7	not applicable	not applicable	12/27/2010
+1629.SubjectIBD536	not applicable	HC	not applicable	male	1	not applicable	not applicable	03/02/2009
+1629.SubjectIBD537	not applicable	HC	not applicable	male	3	not applicable	not applicable	08/28/2009
+1629.SubjectIBD538	not applicable	HC	not applicable	female	4	not applicable	not applicable	01/08/2010
+1629.SubjectIBD539	not applicable	HC	not applicable	female	5	not applicable	not applicable	05/11/2010
+1629.SubjectIBD540	not applicable	HC	not applicable	female	6	not applicable	not applicable	08/25/2010
+1629.SubjectIBD541	not applicable	HC	not applicable	female	1	not applicable	not applicable	02/23/2009
+1629.SubjectIBD542	not applicable	HC	not applicable	female	2	not applicable	not applicable	05/25/2009
+1629.SubjectIBD543	not applicable	HC	not applicable	female	3	not applicable	not applicable	09/07/2009
+1629.SubjectIBD544	yes	CD	no	female	1	not applicable	1993	02/25/2010
+1629.SubjectIBD545	not applicable	UC	not applicable	female	2	Left sided (E2)	2004	01/26/2010
+1629.SubjectIBD546	not applicable	UC	not applicable	female	3	Left sided (E2)	2004	03/10/2010
+1629.SubjectIBD547	not applicable	UC	not applicable	female	4	Left sided (E2)	2004	04/07/2010
+1629.SubjectIBD548	not applicable	UC	not applicable	female	1	Left sided (E2)	2004	12/15/2009
+1629.SubjectIBD549	no	CD	no	female	4	not applicable	2008	03/16/2010
+1629.SubjectIBD550	no	CD	no	female	1	not applicable	2008	03/17/2009
+1629.SubjectIBD551	no	CD	no	female	2	not applicable	2008	09/03/2024
+1629.SubjectIBD552	no	CD	no	female	3	not applicable	2008	12/16/2009
+1629.SubjectIBD553	not applicable	UC	not applicable	male	1	Left sided (E2)	2007	02/23/2010
+1629.SubjectIBD554	not applicable	UC	not applicable	male	2	Left sided (E2)	2007	03/30/2010
+1629.SubjectIBD555	no	CD	no	female	1	not applicable	2009	05/26/2010
+1629.SubjectIBD556	no	CD	no	male	5	not applicable	1990	05/27/2010
+1629.SubjectIBD557	not applicable	CC	not applicable	female	2	not applicable	not applicable	05/10/2010
+1629.SubjectIBD558	not applicable	UC	not applicable	female	2	Extensive (E3)	1989	07/14/2010
+1629.SubjectIBD559	yes	CD	no	female	1	not applicable	2000	04/06/2009
+1629.SubjectIBD560	no	CD	no	male	2	not applicable	2008	09/16/2009
+1629.SubjectIBD561	not applicable	CC	not applicable	male	1	not applicable	not applicable	08/11/2009
+1629.SubjectIBD563	yes	CD	no	male	4	not applicable	1994	09/14/2010
+1629.SubjectIBD564	not applicable	UC	not applicable	female	6	Left sided (E2)	2002	12/09/2010
+1629.SubjectIBD565	not applicable	LC	not applicable	female	1	not applicable	not applicable	02/02/2010
+1629.SubjectIBD567	yes	CD	no	female	6	not applicable	2004	09/30/2010
+1629.SubjectIBD568	not applicable	UC	not applicable	female	4	Left sided (E2)	1998	05/20/2010
+1629.SubjectIBD569	not applicable	CC	not applicable	male	4	not applicable	not applicable	05/18/2010
+1629.SubjectIBD571	not applicable	CC	not applicable	female	1	not applicable	not applicable	02/23/2010
+1629.SubjectIBD572	not applicable	CC	not applicable	female	1	not applicable	not applicable	02/17/2010
+1629.SubjectIBD573	not applicable	CC	not applicable	male	2	not applicable	not applicable	02/25/2010
+1629.SubjectIBD574	yes	CD	no	male	6	not applicable	1984	09/09/2010
+1629.SubjectIBD575	yes	CD	no	male	5	not applicable	1983	01/12/2011
+1629.SubjectIBD576	no	CD	no	male	1	not applicable	1988	03/30/2010
+1629.SubjectIBD577	not applicable	CC	not applicable	female	1	not applicable	not applicable	01/20/2010
+1629.SubjectIBD578	yes	CD	no	female	5	not applicable	1973	03/08/2010
+1629.SubjectIBD579	not applicable	LC	not applicable	female	1	not applicable	not applicable	04/14/2010
+1629.SubjectIBD580	not applicable	CC	not applicable	female	2	not applicable	not applicable	04/22/2010
+1629.SubjectIBD581	no	CD	no	female	3	not applicable	1989	03/23/2010
+1629.SubjectIBD582	yes	CD	no	female	8	not applicable	1973	12/02/2010
+1629.SubjectIBD584	not applicable	UC	not applicable	female	4	Proctitis (E1)	1984	08/05/2010
+1629.SubjectIBD586	not applicable	CC	not applicable	male	3	not applicable	not applicable	03/16/2010
+1629.SubjectIBD587	not applicable	UC	not applicable	female	2	Left sided (E2)	1977	03/03/2010
+1629.SubjectIBD589	not applicable	UC	not applicable	female	1	Proctitis (E1)	1984	11/19/2009
+1629.SubjectIBD591	no	CD	no	male	5	not applicable	2008	12/07/2010
+1629.SubjectIBD594	yes	CD	no	female	7	not applicable	2000	09/30/2010
+1629.SubjectIBD597	not applicable	UC	not applicable	male	1	Left sided (E2)	2007	08/13/2009
+1629.SubjectIBD599	not applicable	HC	not applicable	female	4	not applicable	not applicable	08/19/2010
+1629.SubjectIBD600	not applicable	UC	not applicable	female	4	Left sided (E2)	1979	12/03/2009
+1629.SubjectIBD601	not applicable	CC	not applicable	female	2	not applicable	not applicable	05/19/2010
+1629.SubjectIBD602	not applicable	CC	not applicable	female	1	not applicable	not applicable	03/30/2009
+1629.SubjectIBD607	not applicable	CC	not applicable	male	3	not applicable	not applicable	02/10/2010
+1629.SubjectIBD609	not applicable	CC	not applicable	male	1	not applicable	not applicable	04/29/2010
+1629.SubjectIBD611	yes	CD	no	female	8	not applicable	2000	12/23/2010
+1629.SubjectIBD612	not applicable	CC	not applicable	female	1	not applicable	not applicable	02/08/2010
+1629.SubjectIBD613	yes	CD	no	female	6	not applicable	1973	05/27/2010
+1629.SubjectIBD614	not applicable	LC	not applicable	female	2	not applicable	not applicable	02/18/2010
+1629.SubjectIBD615	not applicable	UC	not applicable	female	3	Proctitis (E1)	1984	05/26/2010
+1629.SubjectIBD616	not applicable	UC	not applicable	female	4	Left sided (E2)	2004	04/07/2010
+1629.SubjectIBD617	not applicable	CC	not applicable	female	5	not applicable	not applicable	03/23/2010
+1629.SubjectIBD618	not applicable	UC	not applicable	female	5	Left sided (E2)	2007	03/16/2011
+1629.SubjectIBD620	not applicable	UC	not applicable	female	4	Left sided (E2)	1998	05/20/2010
+1629.SubjectIBD621	not applicable	UC	not applicable	female	2	Left sided (E2)	1977	03/03/2010
+1629.SubjectIBD622	not applicable	UC	not applicable	female	3	Proctitis (E1)	2005	10/26/2010
+1629.SubjectIBD623	not applicable	CC	not applicable	female	1	not applicable	not applicable	02/09/2010
+1629.SubjectIBD624	not applicable	CC	not applicable	female	1	not applicable	not applicable	04/07/2010
+1629.SubjectIBD625	not applicable	UC	not applicable	female	1	Proctitis (E1)	2002	10/28/2009
+1629.SubjectIBD626	not applicable	HC	not applicable	female	5	not applicable	not applicable	11/17/2010
+1629.SubjectIBD627	not applicable	CC	not applicable	male	2	not applicable	not applicable	11/05/2009
+1629.SubjectIBD628	not applicable	CC	not applicable	female	1	not applicable	not applicable	04/22/2009
+1629.SubjectIBD630	not applicable	CC	not applicable	female	2	not applicable	not applicable	05/05/2010
+1629.SubjectIBD631	no	CD	no	female	4	not applicable	1995	10/30/2009
+1629.SubjectIBD632	not applicable	UC	not applicable	female	4	Left sided (E2)	1979	12/03/2009
+1629.SubjectIBD633	not applicable	UC	not applicable	male	5	Extensive (E3)	1998	01/07/2011
+1629.SubjectIBD635	not applicable	UC	not applicable	female	1	Proctitis (E1)	1996	04/06/2009
+1629.SubjectIBD637	not applicable	CC	not applicable	female	4	not applicable	not applicable	12/22/2009
+1629.SubjectIBD639	not applicable	HC	not applicable	female	7	not applicable	not applicable	10/04/2010
+1629.SubjectIBD640	not applicable	HC	not applicable	female	7	not applicable	not applicable	06/17/2011
+1629.SubjectIBD641	not applicable	UC	not applicable	male	1	Proctitis (E1)	1980	03/03/2010
+1629.SubjectIBD642	not applicable	CC	not applicable	female	2	not applicable	not applicable	06/24/2009
+1629.SubjectIBD643	not applicable	CC	not applicable	female	1	not applicable	not applicable	01/28/2010
+1629.SubjectIBD644	no	CD	no	male	3	not applicable	2008	05/20/2010
+1629.SubjectIBD645	no	CD	no	female	4	not applicable	1996	09/24/2010
+1629.SubjectIBD646	not applicable	UC	not applicable	male	5	Left sided (E2)	2007	03/09/2010
+1629.SubjectIBD647	yes	CD	no	male	5	not applicable	1983	01/12/2011
+1629.SubjectIBD650	not applicable	UC	not applicable	female	1	Extensive (E3)	1994	05/19/2009
+1629.SubjectIBD652	not applicable	UC	not applicable	male	3	Left sided (E2)	1999	09/22/2010
+1629.SubjectIBD653	not applicable	UC	not applicable	male	4	Left sided (E2)	1999	12/09/2010
+1629.SubjectIBD654	not applicable	UC	not applicable	female	2	Extensive (E3)	1989	07/14/2010
+1629.SubjectIBD656	yes	CD	no	female	7	not applicable	1990	10/14/2010
+1629.SubjectIBD657	not applicable	HC	not applicable	female	3	not applicable	not applicable	04/14/2010
+1629.SubjectIBD659	not applicable	HC	not applicable	male	6	not applicable	not applicable	10/04/2010
+1629.SubjectIBD660	not applicable	UC	not applicable	male	2	Left sided (E2)	2007	07/30/2009
+1629.SubjectIBD661	yes	CD	yes	male	3	not applicable	2000	09/30/2010
+1629.SubjectIBD662	yes	CD	no	female	5	not applicable	1973	03/08/2010
+1629.SubjectIBD663	not applicable	CC	not applicable	female	2	not applicable	not applicable	01/20/2010
+1629.SubjectIBD664	not applicable	CC	not applicable	female	4	not applicable	not applicable	05/05/2010
+1629.SubjectIBD665	not applicable	UC	not applicable	female	5	Extensive (E3)	1966	03/15/2010
+1629.SubjectIBD666	not applicable	CC	not applicable	male	1	not applicable	not applicable	04/01/2009
+1629.SubjectIBD667	not applicable	LC	not applicable	female	3	not applicable	not applicable	10/14/2009
+1629.SubjectIBD669	not applicable	CC	not applicable	female	1	not applicable	not applicable	10/13/2009
+1629.SubjectIBD670	yes	CD	no	male	3	not applicable	1994	06/10/2010
+1629.SubjectIBD671	not applicable	LC	not applicable	female	4	not applicable	not applicable	01/27/2010
+1629.SubjectIBD672	not applicable	LC	not applicable	female	2	not applicable	not applicable	04/20/2010
+1629.SubjectIBD674	not applicable	CC	not applicable	male	2	not applicable	not applicable	07/01/2009
+1629.SubjectIBD675	not applicable	CC	not applicable	female	3	not applicable	not applicable	04/15/2010
+1629.SubjectIBD676	yes	CD	no	male	1	not applicable	2001	03/17/2010
+1629.SubjectIBD677	not applicable	UC	not applicable	male	5	Left sided (E2)	2007	03/09/2010
+1629.SubjectIBD678	not applicable	CC	not applicable	female	2	not applicable	not applicable	05/10/2010
+1629.SubjectIBD679	not applicable	LC	not applicable	female	1	not applicable	not applicable	04/15/2009
+1629.SubjectIBD680	yes	CD	no	female	6	not applicable	1965	09/08/2010
+1629.SubjectIBD682	not applicable	UC	not applicable	female	2	Proctitis (E1)	2003	06/10/2010
+1629.SubjectIBD684	not applicable	UC	not applicable	female	4	Proctitis (E1)	2005	01/12/2011
+1629.SubjectIBD687	no	CD	no	female	1	not applicable	1995	02/26/2009
+1629.SubjectIBD689	not applicable	UC	not applicable	male	8	Left sided (E2)	2007	12/09/2010
+1629.SubjectIBD690	not applicable	UC	not applicable	male	3	Extensive (E3)	1998	06/21/2010
+1629.SubjectIBD691	not applicable	CC	not applicable	female	2	not applicable	not applicable	05/19/2010
+1629.SubjectIBD692	not applicable	UC	not applicable	male	7	Extensive (E3)	1998	12/14/2010
+1629.SubjectIBD694	not applicable	UC	not applicable	female	1	Left sided (E2)	2003	10/07/2009
+1629.SubjectIBD695	not applicable	LC	not applicable	female	1	not applicable	not applicable	12/07/2009
+1629.SubjectIBD696	not applicable	CC	not applicable	female	2	not applicable	not applicable	07/09/2009
+1629.SubjectIBD698	not applicable	UC	not applicable	female	3	Extensive (E3)	1971	09/03/2009
+1629.SubjectIBD699	no	CD	no	male	8	not applicable	1972	11/23/2011
+1629.SubjectIBD701	yes	CD	yes	male	4	not applicable	1991	10/05/2010
+1629.SubjectIBD702	no	CD	no	male	3	not applicable	1988	09/16/2010
+1629.SubjectIBD703	not applicable	UC	not applicable	male	4	Left sided (E2)	1983	10/12/2010
+1629.SubjectIBD704	not applicable	UC	not applicable	female	2	Left sided (E2)	2007	06/10/2010
+1629.SubjectIBD705	no	CD	yes	female	1	not applicable	1985	03/17/2009
+1629.SubjectIBD706	not applicable	CC	not applicable	male	1	not applicable	not applicable	12/15/2009
+1629.SubjectIBD707	not applicable	UC	not applicable	female	3	Left sided (E2)	1998	02/18/2010
+1629.SubjectIBD708	not applicable	CC	not applicable	female	1	not applicable	not applicable	07/02/2009
+1629.SubjectIBD710	not applicable	UC	not applicable	female	5	Left sided (E2)	1977	12/02/2010
+1629.SubjectIBD711	not applicable	UC	not applicable	female	3	Left sided (E2)	1977	09/20/2010
+1629.SubjectIBD712	no	CD	no	male	1	not applicable	2000	03/12/2010
+1629.SubjectIBD713	not applicable	UC	not applicable	male	8	Left sided (E2)	1978	08/25/2010
+1629.SubjectIBD715	not applicable	LC	not applicable	female	3	not applicable	not applicable	05/25/2010
+1629.SubjectIBD716	not applicable	UC	not applicable	female	4	Left sided (E2)	2002	08/04/2010
+1629.SubjectIBD718	not applicable	HC	not applicable	male	2	not applicable	not applicable	06/10/2009
+1629.SubjectIBD719	no	CD	no	female	6	not applicable	1989	09/29/2010
+1629.SubjectIBD720	not applicable	CC	not applicable	female	2	not applicable	not applicable	05/26/2010
+1629.SubjectIBD721	not applicable	LC	not applicable	female	2	not applicable	not applicable	07/14/2009
+1629.SubjectIBD723	not applicable	HC	not applicable	female	7	not applicable	not applicable	12/27/2010
+1629.SubjectIBD724	not applicable	CC	not applicable	female	2	not applicable	not applicable	04/22/2010
+1629.SubjectIBD725	yes	CD	yes	male	2	not applicable	1966	06/23/2009
