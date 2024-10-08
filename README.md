@@ -30,3 +30,8 @@ Wrangle data this week:
 - Column "Origin" = the dataset the data is from 
 
 
+**Oct 8 Agenda** 
+1. Review differences between the data: discuss potential concerns about sample size (Georgia)
+3. Updates on data wrangling
+4. Planning action items for the week: demultiplexing data, denoising, clustering, etc.
+*Figure out how to distribute tasks
