@@ -66,5 +66,6 @@ Manifest: has sample-id and absolute-file path; in R filter the manifest based o
 
 **Oct 15 Agenda** 
 1. Updates on data-wrangling
-2. Proposal discussion - how to split tasks
+2. Discuss Halfvarson (short vs long time points, how we want to subset)
+3. Proposal discussion - how to split tasks
 
