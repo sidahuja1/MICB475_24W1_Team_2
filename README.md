@@ -85,14 +85,14 @@ Manifest: has sample-id and absolute-file path; in R filter the manifest based o
 Proposal:
 
 Title: 
-Intro and Background: Victoria and Georgia
-Research Objectives: Alex
-Experimental aims: Lester
-Approach: Sid
-Flowchart: Sid
-Weekly timeframe (Gantt Chart): Alex and Lester
-Data Wrangling: all
-Particpation Report: all
+- Intro and Background: Victoria and Georgia
+- Research Objectives: Alex
+- Experimental aims: Lester
+- Approach: Sid
+- Flowchart: Sid
+- Weekly timeframe (Gantt Chart): Alex and Lester
+- Data Wrangling: all
+- Particpation Report: all
 
 **Finish individual parts by Friday**
 
