@@ -64,3 +64,7 @@ Subset in the duplier package
 Manifest: has sample-id and absolute-file path; in R filter the manifest based off the metadata
 
 
+**Oct 15 Agenda** 
+1. Updates on data-wrangling
+2. Proposal discussion - how to split tasks
+
