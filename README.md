@@ -9,7 +9,7 @@ Potential Papers:
 
 Aim 1: data wrangling, combining metadata, creating a new column
 
-Aim 2: cross compare across the 6 groups, with indicator, differential abundance, etc. 
+Aim 2: cross compare across the 6 groups, with indicator, differential abundance, core microbiome, diversity metrics, etc. (5 analysis)
 
 *Potentially look at functional differences
 
@@ -68,4 +68,41 @@ Manifest: has sample-id and absolute-file path; in R filter the manifest based o
 1. Updates on data-wrangling
 2. Discuss Halfvarson (short vs long time points, how we want to subset)
 3. Proposal discussion - how to split tasks
+- Replace section 8 with the new section
+- Use an "ing" word in title -> "comparing" how X and X
+- Intro and background: IBD background, explain signficance of research
+- Objective: broader question and hypothesis; hypothesis must include a biological rationale
+- Experimental aims: 1. wrangling (so categories are can be compared); 
+- Approach: analyses
+- Data wrangling instead of 
+
+**Halfvarson**: Subsetting numbers
+- Healthy-control: n = 9
+- IBD_no_surg: n = 19
+- IBD_surg_short (timepoint 1): n = 19
+- IBD_surg_long (timepoint 2): n = 19
+
+Proposal:
+
+Title: 
+Intro and Background: Victoria and Georgia
+Research Objectives: Alex
+Experimental aims: Lester
+Approach: Sid
+Flowchart: Sid
+Weekly timeframe (Gantt Chart): Alex and Lester
+Data Wrangling: all
+Particpation Report: all
+
+**Finish individual parts by Friday**
+
+
+
+
+
+
+
+
+
+
 
