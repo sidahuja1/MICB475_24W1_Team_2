@@ -1,34 +1,32 @@
 library(tidyverse)
-library(dplyr)
 
-metadata <- read_delim("fmt_p4_metadata.txt", delim="\t")
+# Load data
+metadata <- read_delim("data/fmt_p4_metadata.txt", delim="\t")
 
-#remove CDI 
-samples_to_remove <- c("CDI-PRE", "CDI-3MoPST", "CDI-1WkPST")
-filtered_data <- metadata[!metadata$Group %in% samples_to_remove, ]
-print(filtered_data)
+# Remove CDI 
+metadata <- metadata %>%
+  filter(condition != "CDI")
 
-metadata_p4_final_2 <- filtered_data %>%
-  rename(treatment_type = Group)
-print(metadata_p4_final_2)
+# Rename columns to match Halfvarson metadata
+metadata <- metadata %>%
+  rename(ibd_subtype = condition) %>%
+  mutate(ibd_subtype = case_when(
+    grepl("Donor$", ibd_subtype) ~ "Healthy_control",
+    TRUE ~ ibd_subtype))
 
-#Filter names to match Halfverson paper##
-metadata_p4_final_3<- metadata_p4_final_2 %>%
-  mutate(treatment_type = ifelse(treatment_type == "Donor", "Healthy_control", treatment_type))
-print(metadata_p4_final_3)
-metadata_p4_final_4<- metadata_p4_final_3 %>%
-  mutate(treatment_type = ifelse(treatment_type == "CDI+UC-3MoPST", "IBD_fmt_long", treatment_type))
-metadata_p4_final_4<- metadata_p4_final_4 %>%
-mutate(treatment_type = ifelse(treatment_type == "UC-3MoPST", "IBD_fmt_long", treatment_type))
-metadata_p4_final_4<- metadata_p4_final_4 %>%
-  mutate(treatment_type = ifelse(treatment_type == "CDI+UC-PRE", "IBD_no_fmt", treatment_type))
-metadata_p4_final_4<- metadata_p4_final_4 %>%
-  mutate(treatment_type = ifelse(treatment_type == "UC-PRE", "IBD_no_fmt", treatment_type))
-metadata_p4_final_4<- metadata_p4_final_4 %>%
-  mutate(treatment_type = ifelse(treatment_type == "UC-1WkPST", "IBD_fmt_short", treatment_type))
-metadata_p4_final_4<- metadata_p4_final_4 %>%
-  mutate(treatment_type = ifelse(treatment_type == "CDI+UC-1WkPST", "IBD_fmt_short", treatment_type))
-print(metadata_p4_final_4)
+# Filter names to match Halfverson paper
+metadata <- metadata %>%
+  mutate(treatment_type = case_when(
+    grepl("Donor$", Group) ~ "Healthy_control",
+    grepl("3MoPST$", Group) ~ "IBD_fmt_long",
+    grepl("PRE$", Group) ~ "IBD_no_fmt",
+    grepl("1WkPST$", Group) ~ "IBD_fmt_short")) %>%
+  select(-c("Group", "timepoint"))
+
+# Adding diagnosis column
+metadata_final <- metadata %>%
+  mutate(diagnosis = case_when(ibd_subtype %in% c("CDI+UC", "UC") ~ "IBD",
+                               ibd_subtype == "Healthy_control" ~ "Healthy_control"))
 
 # Save metadata as a .tsv file
-write.table(metadata_p4_final_4, file="Mintz_P4_filtered_metadata_final.tsv", sep="\t", quote = T, row.names = F, col.names = T)
+write.table(metadata_final, file="data/Mintz_P4_filtered.tsv", sep="\t", quote = T, row.names = F, col.names = T)
