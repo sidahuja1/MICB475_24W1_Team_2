@@ -73,11 +73,12 @@ metadata_final <- metadata_final %>%
   mutate(diagnosis = case_when(diagnosis_full %in% c("UC", "CD") ~ "IBD",
                                diagnosis_full == "HC" ~ "HC"))
 
-metadata_final$ibd_subtype <- gsub("_(r|nr)$", "", metadata_final$ibd_subtype)
+metadata_final$ibd_subtype <- gsub("_(nr)$", "", metadata_final$ibd_subtype)
   
 # Select necessary columns
 metadata_final <- metadata_final %>%
-  select("sample-id", "ibd_subtype", "diagnosis", "treatment_type")
+  select("sample-id", "ibd_subtype", "diagnosis", "treatment_type") %>%
+  mutate(across(everything(), ~ gsub("HC", "Healthy_control", .)))
 
 # Save metadata as a .tsv file
 write.table(metadata_final, file="data/IBD_halfvarson_metadata_filtered.tsv", sep="\t", quote = T, row.names = F, col.names = T)
