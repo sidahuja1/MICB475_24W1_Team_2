@@ -100,7 +100,7 @@ Oct 22nd
 - give updates on data processing
 - go over what needs to be done in the next week 
 
-
+- Silva not greengenes
 
 
 
