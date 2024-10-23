@@ -97,8 +97,8 @@ Title:
 **Finish individual parts by Friday**
 
 Oct 22nd 
-- give updates on data processing
-- go over what needs to be done in the next week 
+1. Give updates on data processing
+2. Go over what needs to be done in the next week 
 
 - Silva not greengenes
 
