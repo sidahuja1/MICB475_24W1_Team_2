@@ -9,7 +9,6 @@ qiime demux summarize \
   --i-data halfvarson_demux_seqs.qza \
   --o-visualization halfvarson_demux_seqs.qzv
 
-
 # Halfvarson Denoising using DADA2
 qiime dada2 denoise-single \
   --i-demultiplexed-seqs halfvarson_demux_seqs.qza \
@@ -19,3 +18,13 @@ qiime dada2 denoise-single \
   --o-table halfvarson_table.qza \
   --o-denoising-stats halfvarson_stats.qza
 
+# Importing and demultiplexing the filtered p4 manifest file
+qiime tools import \
+  --type "SampleData[PairedEndSequencesWithQuality]" \
+  --input-format PairedEndFastqManifestPhred33V2 \
+  --input-path Mintz_P4_manifest_filtered.tsv \
+  --output-path ./Mintz_P4_demux_seqs.qza
+
+qiime demux summarize \
+  --i-data Mintz_P4_demux_seqs.qza \
+  --o-visualization Mintz_P4_demux_seqs.qzv
