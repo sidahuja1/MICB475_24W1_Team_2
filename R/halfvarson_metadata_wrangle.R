@@ -49,19 +49,10 @@ metadata_healthy <- metadata %>%
   filter(diagnosis_full == "HC" & timepoint == 1)  %>%
   mutate(treatment_type = "HC")
 
-# Filtering for no resection IBD patients
+# Filtering for no resection IBD patients. Only keeping ICD timepoint 1 
+# subtypes. Adding treatment column.
 metadata_no_surg <- metadata %>%
-  filter(cd_resection != "yes" & diagnosis_full != "HC")
-
-# Randomly selecting 6 samples of the 3 IBD subtypes with no surgery from
-# timepoint 1. Adding treatment type column
-
-set.seed(123) # Setting seed for reproducibility
-
-metadata_no_surg <- metadata_no_surg %>%
-  filter(timepoint == 1) %>%
-  group_by(ibd_subtype) %>%
-  slice_sample(n = 6) %>%
+  filter(ibd_subtype == "ICD_nr" & timepoint == 1) %>%
   mutate(treatment_type = "IBD_no_surg")
   
 # Combining dataframes
