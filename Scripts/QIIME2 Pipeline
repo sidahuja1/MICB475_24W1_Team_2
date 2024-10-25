@@ -28,3 +28,24 @@ qiime tools import \
 qiime demux summarize \
   --i-data Mintz_P4_demux_seqs.qza \
   --o-visualization Mintz_P4_demux_seqs.qzv
+
+
+# Merge tables
+qiime feature-table merge \
+ --i-tables /home/.qza \
+ --i-tables table2.qza \
+ --o-merged-table merged_table.qza
+
+# Merge rep-seqs
+qiime feature-table merge-seqs \
+ --i-data may_rep-seqs.qza \
+ --i-data july_rep-seqs.qza \
+ --i-data septoct_rep-seqs.qza \
+ --i-data psomagen_2_rep-seqs.qza \
+ --o-merged-data merged_rep-seqs.qza
+
+# Merge taxonomy files
+qiime feature-table merge-taxa-data \
+  --i-data1 analysis1/taxonomy.qza \
+  --i-data2 analysis2/taxonomy.qza \
+  --o-merged-data merged-taxonomy.qza
