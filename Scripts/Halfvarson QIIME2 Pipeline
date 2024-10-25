@@ -1,3 +1,4 @@
+# Importing and demultiplexing the filtered manifest file
 qiime tools import \
   --type "SampleData[SequencesWithQuality]" \
   --input-format SingleEndFastqManifestPhred33V2 \
@@ -7,3 +8,14 @@ qiime tools import \
 qiime demux summarize \
   --i-data halfvarson_demux_seqs.qza \
   --o-visualization halfvarson_demux_seqs.qzv
+
+
+# DADA2 Denoising
+qiime dada2 denoise-single \
+  --i-demultiplexed-seqs halfvarson_demux_seqs.qza \
+  --p-trim-left 0 \
+  --p-trunc-len 99 \
+  --o-representative-sequences halfvarson_rep-seqs.qza \
+  --o-table halfvarson_table.qza \
+  --o-denoising-stats halfvarson_stats.qza
+
