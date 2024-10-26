@@ -29,6 +29,15 @@ qiime demux summarize \
   --i-data Mintz_P4_demux_seqs.qza \
   --o-visualization Mintz_P4_demux_seqs.qzv
 
+# p4 Mintz Denoising using DADA2
+qiime dada2 denoise-paired \
+  --i-demultiplexed-seqs Mintz_P4_demux_seqs.qza \
+  --p-trunc-len-f 233 \
+  --p-trim-left-r 0 \
+  --p-trunc-len-r 233 \
+  --o-representative-sequences Mintz_P4_rep-seqs.qza \
+  --o-table Mintz_P4_table.qza \
+  --o-denoising-stats Mintz_P4_stats.qza
 
 # Merge tables
 qiime feature-table merge \
