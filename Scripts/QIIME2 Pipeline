@@ -39,22 +39,16 @@ qiime dada2 denoise-paired \
   --o-table Mintz_P4_table.qza \
   --o-denoising-stats Mintz_P4_stats.qza
 
-# Merge tables
+# Merge Mintz and Halfvarson table.qza files
 qiime feature-table merge \
- --i-tables /home/.qza \
- --i-tables table2.qza \
+ --i-tables /home/qiime2/data/fmt/Mintz_P4_table.qza \
+ --i-tables /home/qiime2/data/halfvarson_data/halfvarson_table.qza \
  --o-merged-table merged_table.qza
 
-# Merge rep-seqs
+# Merge Mintz and Halfvarson rep-seqs.qza files
 qiime feature-table merge-seqs \
- --i-data may_rep-seqs.qza \
- --i-data july_rep-seqs.qza \
- --i-data septoct_rep-seqs.qza \
- --i-data psomagen_2_rep-seqs.qza \
+ --i-data /home/qiime2/data/fmt/Mintz_P4_rep-seqs.qza\
+ --i-data /home/qiime2/data/halfvarson_data/halfvarson_rep-seqs.qza \
  --o-merged-data merged_rep-seqs.qza
 
-# Merge taxonomy files
-qiime feature-table merge-taxa-data \
-  --i-data1 analysis1/taxonomy.qza \
-  --i-data2 analysis2/taxonomy.qza \
-  --o-merged-data merged-taxonomy.qza
+
