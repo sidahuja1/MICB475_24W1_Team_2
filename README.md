@@ -92,7 +92,7 @@ Title:
 - Flowchart: Sid
 - Weekly timeframe (Gantt Chart): Alex and Lester
 - Data Wrangling: all
-- Particpation Report: all
+- Participation Report: all
 
 **Finish individual parts by Friday**
 
@@ -101,6 +101,12 @@ Oct 22nd
 2. Go over what needs to be done in the next week 
 
 - Silva not greengenes
+
+Oct 29:
+1. Updates on Wrangling
+2. Merge?
+3. Proposal revisions
+
 
 
 
