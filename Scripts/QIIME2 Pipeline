@@ -18,7 +18,14 @@ qiime dada2 denoise-single \
   --o-table halfvarson_table.qza \
   --o-denoising-stats halfvarson_stats.qza
 
-# Importing and demultiplexing the filtered p4 manifest file
+# Halfvarson Taxonomic analysis 
+qiime feature-classifier classify-sklearn \
+  --i-classifier /mnt/datasets/classifiers/silva-138-99-515-806-nb-classifier.qza \
+  --i-reads halfvarson_rep-seqs.qza \
+  --o-classification halfvarson_taxonomy.qza
+
+
+# Importing and demultiplexing the filtered p4 Mintz manifest file
 qiime tools import \
   --type "SampleData[PairedEndSequencesWithQuality]" \
   --input-format PairedEndFastqManifestPhred33V2 \
@@ -38,6 +45,13 @@ qiime dada2 denoise-paired \
   --o-representative-sequences Mintz_P4_rep-seqs.qza \
   --o-table Mintz_P4_table.qza \
   --o-denoising-stats Mintz_P4_stats.qza
+
+# p4 Mintz Taxonomic analysis 
+qiime feature-classifier classify-sklearn \
+  --i-classifier /mnt/datasets/classifiers/silva-138-99-515-806-nb-classifier.qza \
+  --i-reads Mintz_p4_rep-seqs.qza \
+  --o-classification p4_taxonomy.qza
+
 
 # Merge Mintz and Halfvarson table.qza files
 qiime feature-table merge \
