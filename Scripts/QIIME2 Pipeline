@@ -72,3 +72,18 @@ qiime feature-table merge-taxa-data \
   --o-merged-data merged-taxonomy.qza
 
 
+# Generating a tree for phylogenetic diversity analyses
+qiime phylogeny align-to-tree-mafft-fasttree \
+  --i-sequences merged_rep-seqs.qza \
+  --o-alignment merged-aligned-rep-seqs.qza \
+  --o-masked-alignment merged-masked-aligned-rep-seqs.qza \
+  --o-tree merged-unrooted-tree.qza \
+  --o-rooted-tree merged-rooted-tree.qza 
+
+# Generating an alpha rarefaction curve to help decide sampling depth
+qiime diversity alpha-rarefaction \
+  --i-table merged-table-no-mitochondria-no-chloroplast.qza \
+  --i-phylogeny merged-rooted-tree.qza \
+  --p-max-depth 8000 \
+  --m-metadata-file merged-metadata.qza \
+  --o-visualization merged-alpha-rarefaction.qzv
