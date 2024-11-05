@@ -138,7 +138,11 @@ Note: dont bother with taxa bar plots just need taxonomy file and tree file
 
 
 
-
+Nov 5:
+1. Troubleshooting merge:
+- Our sampling depth options are extremely low, but the rarefaction curve looks fine.
+4. Confirm proposal changes, and ensure all comments have been addressed: everyone read over the changes 
+5. Distribute analyses between each member to be done by the next meeting
 
 
 
