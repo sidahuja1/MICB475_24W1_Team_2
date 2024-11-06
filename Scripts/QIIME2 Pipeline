@@ -48,7 +48,7 @@ qiime dada2 denoise-paired \
 # p4 Mintz Taxonomic analysis 
 qiime feature-classifier classify-sklearn \
   --i-classifier /mnt/datasets/classifiers/silva-138-99-515-806-nb-classifier.qza \
-  --i-reads Mintz_p4_rep-seqs.qza \
+  --i-reads Mintz_P4_rep-seqs.qza \
   --o-classification P4_taxonomy.qza
 
 
