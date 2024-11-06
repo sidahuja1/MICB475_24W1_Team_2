@@ -149,7 +149,7 @@ Nov 5:
 
 
 Nov 5 Meeting Minutes:
-
+- Issue with the denoising of fmt paper, rerun denoising for FMT
 
 
 
