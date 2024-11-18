@@ -99,3 +99,34 @@ qiime diversity alpha-rarefaction \
   --p-max-depth 8000 \
   --m-metadata-file merged-metadata.qza \
   --o-visualization merged-alpha-rarefaction.qzv
+
+
+# Importing and demultiplexing the filtered Mintz manifest file
+
+
+#denoising and trimming 20 nucleotides to remove primers
+qiime dada2 denoise-paired --i-demultiplexed-seqs ./Mintz_P4_demux_seqs.qza \
+	--p-trim-left-f 20 \
+	--p-trim-left-r 20 \
+	--p-trunc-len-f 280 \
+	--p-trunc-len-r 220 \
+	--p-max-ee-f 2 \
+	--p-max-ee-r 2 \
+	--p-n-threads 10 \
+	--o-table ./1b_feature-table.qza \
+	--o-representative-sequences ./1b_rep-features-trimmed.qza \
+	--o-denoising-stats ./1b_DADA2_stats-trimmed.qza \
+	--verbose &> ./1b_dada2_log.txt
+	
+	qiime metadata tabulate \
+	--m-input-file ./1b_DADA2_stats-trimmed.qza \
+	--o-visualization ./1b_DADA2_stats.qzv
+	
+	
+	qiime feature-table tabulate-seqs \
+	--i-data ./1b_rep-features-trimmed.qza \
+	--o-visualization ./1b_rep-features.qzv
+	
+	qiime feature-table summarize \
+	--i-table ./1b_feature-table.qza \
+	--o-visualization ./1b_feature-table.qzv
