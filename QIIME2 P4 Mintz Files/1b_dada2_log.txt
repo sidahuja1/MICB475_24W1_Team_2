@@ -1,0 +1,29 @@
+Warning message:
+package ‘optparse’ was built under R version 4.2.3 
+R version 4.2.2 (2022-10-31) 
+Loading required package: Rcpp
+DADA2: 1.26.0 / Rcpp: 1.0.11 / RcppParallel: 5.1.6 
+2) Filtering .........................................
+3) Learning Error Rates
+273956020 total bases in 1053677 reads from 12 samples will be used for learning the error rates.
+210735400 total bases in 1053677 reads from 12 samples will be used for learning the error rates.
+3) Denoise samples .........................................
+.........................................
+5) Remove chimeras (method = consensus)
+6) Report read numbers through the pipeline
+7) Write output
+Running external command line application(s). This may print messages to stdout and/or stderr.
+The command(s) being run are below. These commands cannot be manually re-run as they will depend on temporary files that no longer exist.
+
+Command: run_dada.R --input_directory /home/qiime2/TMP/tmpix58xe9t/forward --input_directory_reverse /home/qiime2/TMP/tmpix58xe9t/reverse --output_path /home/qiime2/TMP/tmpix58xe9t/output.tsv.biom --output_track /home/qiime2/TMP/tmpix58xe9t/track.tsv --filtered_directory /home/qiime2/TMP/tmpix58xe9t/filt_f --filtered_directory_reverse /home/qiime2/TMP/tmpix58xe9t/filt_r --truncation_length 280 --truncation_length_reverse 220 --trim_left 20 --trim_left_reverse 20 --max_expected_errors 2 --max_expected_errors_reverse 2 --truncation_quality_score 2 --min_overlap 12 --pooling_method independent --chimera_method consensus --min_parental_fold 1.0 --allow_one_off False --num_threads 10 --learn_min_reads 1000000
+
+Saved FeatureTable[Frequency] to: ./1b_feature-table.qza
+Saved FeatureData[Sequence] to: ./1b_rep-features-trimmed.qza
+Saved SampleData[DADA2Stats] to: ./1b_DADA2_stats-trimmed.qza
+e2-2023.7/lib/python3.8/site-packages/qiime2/core/cache.py", line 292, in __enter__
+    self.flufl_lock.lock()
+  File "/opt/conda/envs/qiime2-2023.7/lib/python3.8/site-packages/flufl/lock/_lockfile.py", line 347, in lock
+    self._touch()
+  File "/opt/conda/envs/qiime2-2023.7/lib/python3.8/site-packages/flufl/lock/_lockfile.py", line 544, in _touch
+    t = time.mktime(expiration_date.timetuple())
+KeyboardInterrupt
