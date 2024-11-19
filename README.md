@@ -172,4 +172,8 @@ Nov 5th Meeting minutes
 
 **NOTE: no meeting next week **
 
+Nov 19:
+1. Discuss merged results/rarefaction curve
+2. Review diversity metrics
+3. Distribute analyses to perform before the next meeting
 
