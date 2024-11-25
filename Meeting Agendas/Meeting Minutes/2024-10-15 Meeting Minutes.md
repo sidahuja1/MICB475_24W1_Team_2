@@ -1,4 +1,4 @@
-** October 15, 2024 Meeting Minutes**
+**October 15, 2024 Meeting Minutes**
 
 **Wrangling**
 Halfvarson: Subsetting numbers
