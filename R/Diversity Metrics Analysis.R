@@ -14,7 +14,7 @@ library(ggthemes)
 load("ibd_rare.RData")
 load("ibd_final.RData")
 
-# Set Seed for reproducbility
+# Set Seed for reproducibility
 set.seed(1)
 
 ### ALPHA DIVERSITY ###
