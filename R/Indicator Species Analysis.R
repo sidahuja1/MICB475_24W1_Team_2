@@ -6,10 +6,11 @@ library(dplyr)
 library(gridExtra)
 library(grid)
 
-set.seed(1)
-
-#### Load unrarefied data ####
+#### Load unrarefied phyloseq data ####
 load("ibd_final.RData")
+
+# Set Seed for reproducibility
+set.seed(1)
 
 # glom to Species
 ibd_species <- tax_glom(ibd_final, "Species", NArm = FALSE)
