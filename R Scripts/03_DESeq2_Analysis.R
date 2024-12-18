@@ -15,7 +15,7 @@ load("~/Desktop/MICB475_Project/MICB_475_Final_Project_DESeq2/ibd_final.RData")
 set.seed(1)
 
 
-## NOTE: If you get a zeros error, then you need to add '1' count to all reads
+## Adding pseudo-count of 1 to reads, converting data to a DESeq2 object & performing differential abundance analysis based on treatment type ## 
 ibd_plus1 <- transform_sample_counts(ibd_final, function(x) x+1)
 ibd_deseq <- phyloseq_to_deseq2(ibd_plus1, ~`treatment_type`)
 DESEQ_ibd <- DESeq(ibd_deseq)
@@ -94,9 +94,6 @@ print(feature_counts)
 # Save the plot
 ggsave("surgshort_nosurg_barplot.png", width = 16, height = 6, dpi = 300)
 
-# IBD_surg_short vs Healthy_control
-ibd_res_surg_short_vs_healthy_control <- results(DESEQ_ibd, tidy=TRUE, 
-                                                 contrast = c("treatment_type", "IBD_surg_short", "Healthy_control"))
 
 #### IBD_surg_long vs IBD_surg_short ####
 ibd_res_surg_long_vs_surg_short <- results(DESEQ_ibd, tidy=TRUE, 
@@ -135,7 +132,6 @@ ggsave("surglong_surgshort_barplot.png", width = 16, height = 6, dpi = 300)
 
 
 
-
 #### IBD_fmt_long vs IBD_no_fmt ####
 ibd_res_fmt_long_vs_no_fmt <- results(DESEQ_ibd, tidy=TRUE, 
                                       contrast = c("treatment_type", "IBD_fmt_long", "IBD_no_fmt"))
@@ -170,6 +166,9 @@ print(feature_counts)
 
 # Save the plot
 ggsave("fmtlong_nofmt_barplot.png", width = 16, height = 6, dpi = 300)
+
+
+
 #### IBD_fmt_short vs IBD_no_fmt ####
 ibd_res_fmt_short_vs_no_fmt <- results(DESEQ_ibd, tidy=TRUE, 
                                        contrast = c("treatment_type", "IBD_fmt_short", "IBD_no_fmt"))
