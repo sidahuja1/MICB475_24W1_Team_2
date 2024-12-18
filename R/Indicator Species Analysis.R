@@ -6,7 +6,7 @@ library(dplyr)
 library(gridExtra)
 library(grid)
 
-#### Load unrarefied phyloseq data ####
+# Load unrarefied phyloseq data
 load("ibd_final.RData")
 
 # Set Seed for reproducibility
@@ -16,7 +16,7 @@ set.seed(1)
 ibd_species <- tax_glom(ibd_final, "Species", NArm = FALSE)
 ibd_species_RA <- transform_sample_counts(ibd_species, fun=function(x) x/sum(x))
 
-#ISA for Species
+# ISA for Species
 isa_ibd_species <- multipatt(t(otu_table(ibd_species_RA)), cluster = sample_data(ibd_species_RA)$`treatment_type`)
 summary(isa_ibd_species)
 
